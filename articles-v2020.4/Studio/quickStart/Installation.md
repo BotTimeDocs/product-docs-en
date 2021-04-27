@@ -4,7 +4,9 @@
 
 1. Get ENCOO RPA Studio.
    
-   You can sign up, log in and download the Community Edition Studio on [ENCOO RPA Console page](https://console.encoo.com/#/user/register "Start"). ![](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Settings/downloadexe.png)
+   You can sign up, log in and download the Community Edition Studio on [ENCOO RPA Console page](https://console.encoo.com/#/user/register "Start"). 
+
+   ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/download20210427.png)
    
    Please contact ENCOO to get the Enterprise Edition Studio.
 
