@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Recording.md",
+    "localizedName": "Smart Recording",
+    "uuid": "be7cd362-e18a-4074-97bb-a949374bfccf",
+    "labels": "录制, 智能"
+  },
+  {
+    "name": "RecordDesktop.md",
+    "localizedName": "Example of Recording Desktop",
+    "uuid": "a30626cc-878b-48f9-abd7-acacb0b281d8",
+    "labels": "桌面, 录制"
+  }
+]

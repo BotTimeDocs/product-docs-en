@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Variables.md",
+    "localizedName": "Variable",
+    "uuid": "0bd627d9-3f75-4c38-b9a2-dbc571686b21",
+    "labels": "变量"
+  },
+  {
+    "name": "VariablesPanel.md",
+    "localizedName": "Variables List",
+    "uuid": "740bd9d6-5e2f-4afa-b66f-2b357e1191a3",
+    "labels": "列表, 变量"
+  },
+  {
+    "name": "TypeOfVariables.md",
+    "localizedName": "Variable Type",
+    "uuid": "7cbee893-0b07-4f58-9304-3ff3e46a070f",
+    "labels": "变量, 类型"
+  }
+]

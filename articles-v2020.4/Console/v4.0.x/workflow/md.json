@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "aboutworkflow.md",
+    "localizedName": "About Flow Deployment",
+    "uuid": "",
+    "labels": "部署, 流程"
+  },
+  {
+    "id": null,
+    "name": "manageworkflow.md",
+    "localizedName": "Manage Flow Deployment",
+    "uuid": "",
+    "labels": "部署, 流程"
+  },
+  {
+    "id": null,
+    "name": "trigger.md",
+    "localizedName": "Job Schedule Management",
+    "uuid": "",
+    "labels": "计划, 管理, 任务"
+  },
+  {
+    "id": null,
+    "name": "runworkflow.md",
+    "localizedName": "Immediate Execution Flow",
+    "uuid": "",
+    "labels": "执行, 立即, 流程"
+  },
+  {
+    "id": null,
+    "name": "workflowjob.md",
+    "localizedName": "Flow Deployment Job List",
+    "uuid": "",
+    "labels": "任务, 查看, 部署, 流程"
+  }
+]

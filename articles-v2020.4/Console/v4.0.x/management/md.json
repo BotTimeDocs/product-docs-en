@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "organizationalstructure.md",
+    "localizedName": "Organizational Structure Management",
+    "uuid": "786d5f8e-406c-44b4-833e-c576ac814dec",
+    "labels": "组织架构, 控制台"
+  },
+  {
+    "id": null,
+    "name": "syssetting.md",
+    "localizedName": "System Settings",
+    "uuid": "f28cfe5b-9f50-49fd-b0d8-4505d19b1bd6",
+    "labels": "系统设置, 控制台"
+  },
+  {
+    "id": null,
+    "name": "log",
+    "localizedName": "Audit Log"
+  },
+  {
+    "id": null,
+    "name": "license",
+    "localizedName": "License"
+  }
+]

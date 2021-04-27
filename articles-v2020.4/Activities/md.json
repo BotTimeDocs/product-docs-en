@@ -1,0 +1,79 @@
+[
+  {
+    "id": "",
+    "name": "README.md",
+    "localizedName": "About ENCOO Activity Library",
+    "uuid": "9f790d12-315d-4aa2-b69f-7ed0d02997a5",
+    "labels": "介绍"
+  },
+  {
+    "id": null,
+    "name": "UIAutomation",
+    "localizedName": "UI Automation"
+  },
+  {
+    "id": null,
+    "name": "AppAutomation",
+    "localizedName": "Application Automation"
+  },
+  {
+    "id": null,
+    "name": "CodeExecuter",
+    "localizedName": "Code Tool"
+  },
+  {
+    "id": null,
+    "name": "System",
+    "localizedName": "System"
+  },
+  {
+    "id": null,
+    "name": "Check",
+    "localizedName": "Check"
+  },
+  {
+    "id": null,
+    "name": "Database",
+    "localizedName": "Database"
+  },
+  {
+    "id": null,
+    "name": "DataTable",
+    "localizedName": "Data Table"
+  },
+  {
+    "id": null,
+    "name": "WorkflowControl",
+    "localizedName": "Flow Control"
+  },
+  {
+    "id": null,
+    "name": "AIHub",
+    "localizedName": "AI Hub"
+  },
+  {
+    "id": null,
+    "name": "PhoneAutomation",
+    "localizedName": "Mobile Automation"
+  },
+  {
+    "id": null,
+    "name": "Console",
+    "localizedName": "Console"
+  },
+  {
+    "id": null,
+    "name": "Resource",
+    "localizedName": "Resources"
+  },
+  {
+    "id": null,
+    "name": "Triggers",
+    "localizedName": "Trigger"
+  },
+  {
+    "id": null,
+    "name": "Appendix",
+    "localizedName": "Appendix"
+  }
+]

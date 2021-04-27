@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "name": "aboutqueue.md",
+    "localizedName": "About Scheduling Queue",
+    "uuid": "",
+    "labels": "调度, 队列"
+  },
+  {
+    "id": null,
+    "name": "managequeue.md",
+    "localizedName": "Scheduling Queue Management",
+    "uuid": "",
+    "labels": "调度队列, 查看, 队列"
+  },
+  {
+    "id": null,
+    "name": "queuejob.md",
+    "localizedName": "View Scheduling Queue Job",
+    "uuid": "",
+    "labels": "调度队列, 查看, 队列, 任务"
+  }
+]

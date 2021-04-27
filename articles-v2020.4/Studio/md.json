@@ -1,0 +1,40 @@
+[
+  {
+    "name": "README.md",
+    "localizedName": "About ENCOO RPA Studio",
+    "uuid": "bbb7017f-4558-4729-aee4-a7e8aa78764a",
+    "labels": "介绍"
+  },
+  {
+    "name": "Introduction",
+    "localizedName": "Product Introduction"
+  },
+  {
+    "name": "quickStart",
+    "localizedName": "Quick Start"
+  },
+  {
+    "name": "process",
+    "localizedName": "Project Flow"
+  },
+  {
+    "name": "VersionControl.md",
+    "localizedName": "Version Control",
+    "uuid": "3b7e4427-2af2-48bf-9c06-3f5d4c412eb3",
+    "labels": "版本控制"
+  },
+  {
+    "name": "Extensions",
+    "localizedName": "Extension"
+  },
+  {
+    "name": "market",
+    "localizedName": "ENCOO Market"
+  },
+  {
+    "name": "FAQ.md",
+    "localizedName": "FAQ",
+    "uuid": "edf49939-4f26-4c60-9fcc-c45da6eba123",
+    "labels": "FAQ, 常见问题"
+  }
+]

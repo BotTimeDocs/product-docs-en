@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arguments.md",
+    "localizedName": "Parameter",
+    "uuid": "2238c728-efc6-455b-9004-2e22b2a82520",
+    "labels": "参数"
+  },
+  {
+    "name": "ArgumentsPanel.md",
+    "localizedName": "Parameter List",
+    "uuid": "34da07c7-e0f4-4b2a-8380-c55e73c9b2ac",
+    "labels": "列表, 参数"
+  },
+  {
+    "name": "UseArguments.md",
+    "localizedName": "Use Arguments",
+    "uuid": "a5e38ade-2d9a-4409-babb-46fa26fd86aa",
+    "labels": "参数, 使用"
+  }
+]

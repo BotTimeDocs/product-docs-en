@@ -1,0 +1,33 @@
+[
+  {
+    "name": "TypeOfWorkflow",
+    "localizedName": "Flow Type",
+    "uuid": "4202bd21-c43e-425d-a868-3a4cff1d6fae"
+  },
+  {
+    "name": "Variables",
+    "localizedName": "Variable",
+    "uuid": "3a99dd6a-2e09-42b6-878a-574e32687f5d"
+  },
+  {
+    "name": "Arguments",
+    "localizedName": "Parameter",
+    "uuid": "db0daf72-271d-40d2-b291-059adcf6faf9"
+  },
+  {
+    "name": "ImportNamespaces.md",
+    "localizedName": "Import Namespace",
+    "uuid": "eaf50d20-260d-4b50-9472-202cf68ff1bb",
+    "labels": "命名空间, 导入"
+  },
+  {
+    "name": "Recording",
+    "localizedName": "Smart Recording",
+    "uuid": "5ac0cda7-4cc5-4ec2-b4ae-725896256552"
+  },
+  {
+    "name": "MobileDevicesManage",
+    "localizedName": "Mobile Device Management (Enterprise Edition)",
+    "uuid": "3f20fe3c-2c9b-4412-ac25-042d68a4c794"
+  }
+]

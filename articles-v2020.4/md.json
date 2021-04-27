@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Index.md",
+    "localizedName": "Overview",
+    "uuid": "dd2b79a8-5dc9-46ff-b2f6-06da49a4db0f",
+    "labels": "RPA, 平台, 云扩"
+  },
+  {
+    "name": "ReleaseNotes.md",
+    "localizedName": "Latest Release Notes",
+    "uuid": "4d3fd93f-a9a1-41e5-abad-63aad543c919",
+    "labels": "发版"
+  },
+  {
+    "name": "ReleaseNotes",
+    "localizedName": "Release History Notes"
+  },
+  {
+    "name": "FunctionList.md",
+    "localizedName": "Function List",
+    "uuid": "b05beace-0826-4877-96b7-583979c4f853"
+  },
+  {
+    "name": "Studio",
+    "localizedName": "ENCOO RPA Studio"
+  },
+  {
+    "id": null,
+    "name": "Activities",
+    "localizedName": "ENCOO Activity Library"
+  },
+  {
+    "id": null,
+    "name": "Robot",
+    "localizedName": "ENCOO RPA Robot"
+  },
+  {
+    "id": null,
+    "name": "Console",
+    "localizedName": "ENCOO RPA Console"
+  },
+  {
+    "id": null,
+    "name": "Apps",
+    "localizedName": "ENCOO ViCode"
+  },
+  {
+    "name": "QA.md",
+    "localizedName": "FAQ",
+    "uuid": "896f04dd-fd5d-4c2f-ab08-3e6e848477fa",
+    "labels": ""
+  },
+  {
+    "id": null,
+    "name": "Legal",
+    "localizedName": "Legal Statement"
+  }
+]

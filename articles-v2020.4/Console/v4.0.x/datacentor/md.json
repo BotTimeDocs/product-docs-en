@@ -1,0 +1,17 @@
+[
+  {
+    "id": null,
+    "name": "asset",
+    "localizedName": "Asset Management"
+  },
+  {
+    "id": null,
+    "name": "fileservice",
+    "localizedName": "File Service"
+  },
+  {
+    "id": null,
+    "name": "Connector.md",
+    "localizedName": "Connection Management"
+  }
+]

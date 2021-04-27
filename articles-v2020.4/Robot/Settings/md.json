@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Basic.md",
+    "localizedName": "Basic",
+    "uuid": "cc69a747-4067-494a-a3c5-bac0fd2e5eb4",
+    "labels": "基本"
+  },
+  {
+    "name": "extensions",
+    "localizedName": "Plug-in"
+  },
+  {
+    "name": "About.md",
+    "localizedName": "About",
+    "uuid": "",
+    "labels": "关于"
+  }
+]
