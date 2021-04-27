@@ -16,7 +16,7 @@ On the "Settings > Manage Market" page, you can manage the flow market, code mar
 > 
 > The creation of a local or network-specific private market is supported.
 
-![ManagementMarket](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/managemarket20201214.png)
+![ManagementMarket](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/managementmarket20210427.png)
 
 ### Switch Market
 
@@ -26,13 +26,13 @@ The selection box in the upper left corner of the drop-down selection page allow
 > 
 > When you switch the market category, the newly created market list can be saved automatically.
 
-![Switch Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/switchmarket.png)
+![Switch Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/switchmarket20210427.png)
 
 ### Create Market
 
 Click ![Create](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/add20201214.png) and enter the market name, market address, and ApiKey to add a local or network-specific private market.
 
-![Create Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/createmarket20201214.png)
+![Create Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/createmarket20210427.png)
 
 - **Local private market**: Enter the specified local folder in the "Market Address" text box and save it to load the local private market, such as "D:\\workspace\\Encoo\\Excel Data Migration".
 
@@ -52,4 +52,6 @@ Select the market you want to move in the market list and click ![Move Up](https
 
 ### Enable/Disable Market
 
-Check/uncheck the market you want to enable/disable in the market list to enable/disable the current market.![Enable/Disable Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/enablemarket20201214.png)
+Check/uncheck the market you want to enable/disable in the market list to enable/disable the current market.
+
+![Enable/Disable Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/enablemarket20210427.png)

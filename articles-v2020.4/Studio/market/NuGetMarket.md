@@ -8,17 +8,17 @@ You can use the code market to get the NuGet application and add it to the RPA f
 
 2. Open the Code Market window.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/codemarket20201214.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/codemarket20210427.png)
 
 3. Search and find the package you need to install.
 
 4. Hover the mouse pointer over the package and click "Install" to install it.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/installcode20201214.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installcodemarket20210427.png)
 
 5. A license may be required to be accepted for installation.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-3.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/alicense20210427.png)
 
 6. You can view the information about the downloaded packages in the "Dependencies" of the project
    
