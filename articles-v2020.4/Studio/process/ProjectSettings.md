@@ -8,7 +8,7 @@ How to set the properties of activities of a category?
 
 You can right click the Project folder in the Project panel, open the menu, then click "Project Settings", to open the "Project Settings" window.
 
-![Project Settings Window](https://docimages.blob.core.chinacloudapi.cn/images/Studio/typeOfWorkflow/itemsettings20201019.png)
+![Project Settings Window](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/projectsetting20210428.png)
 
 **Project Settings** window displays the categories in which the activity properties can be set at the left side. For example, the activity property values set for automation will be applied to all activities related to automation.
 
@@ -20,7 +20,7 @@ In the project, if a property value is set in the **Properties Panel**, the valu
 
 For example, set the **Browser Type** property of **Open Browser**: </br> In Project Settings, set the property value of **Browser Type** to Chrome; in Properties Panel, set the property value to FireFox, when the project is executed, a URL will be opened with Firefox.
 
-![Set Activity Properties](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/projectSettings/settingValue.png)
+![Set Activity Properties](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/settingvalue20210428.png)
 
 > **Note:**
 > 
