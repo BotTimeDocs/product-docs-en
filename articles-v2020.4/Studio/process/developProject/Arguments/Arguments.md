@@ -18,7 +18,7 @@ To create a new parameter:
 
 1. In the "Editing Area", click "Parameters". Then a list of parameters will be displayed.
    
-    ![Create Parameter](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Argument/argumentPanel-createArgument.png)
+    ![Create Parameter](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/createparameter20210428.png)
 
 2. Click on the "Create Parameter" line. A new parameter with the default field value will be displayed.
 
@@ -29,8 +29,8 @@ To create a new parameter:
 ## Delete Parameter
 
 1. In the list of parameters, select a parameter and right-click on it. Then click on the "Delete" option in the context menu.
-   
-    ![Delete Parameter](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Argument/deleteArgument.png)
+
+    ![Delete Parameter](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/argument20210428.png)
 
 2. In the parameter list, select a parameter and press Delete.
 

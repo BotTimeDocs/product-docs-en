@@ -2,7 +2,7 @@
 
 The parameter list can be used to create and modify parameters.
 
-![Parameter](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Argument/argumentPanel.png)
+![Parameter](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/createparameter20210428.png)
 
 | Field| Description
 |----------|----------
@@ -17,7 +17,7 @@ The parameter list can be used to create and modify parameters.
 
 ## Parameter Context Menu
 
-![Menu](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Argument/argumentPanelMenu.png)
+![Menu](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/argument20210428.png)
 
 | Field| Description
 |----------|----------
