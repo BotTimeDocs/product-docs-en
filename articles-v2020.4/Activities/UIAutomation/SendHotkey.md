@@ -35,11 +35,11 @@ It simulates the behavior of a human pressing a shortcut key at the keyboard and
 
 ## Operation sample
 
-1. Drag in the **Set Clipboard Text** activity and set the input text. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-1.png)
+1. Drag in the **Set Clipboard Text** activity and set the input text. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/SendHotkey/Sendhotkey1.png)
 
-2. Drag in the **Send Shortcut** activity, specify the element, and set the key-value CTRL+V. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-2.png)
+2. Drag in the **Send Shortcut** activity, specify the element, and set the key-value CTRL+V. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/SendHotkey/Sendhotkey2.png)
 
-3. Click Run Flow and view the flow run results. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sendHotkey-3.png)
+3. Click Run Flow and view the flow run results. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/SendHotkey/Sendhotkey3.png)
    
    > **Description:**
    > 
