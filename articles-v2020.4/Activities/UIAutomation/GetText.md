@@ -24,10 +24,10 @@ Get the text of the specified element. Desktop and browser are supported.
 
 ## Operation sample
 
-1. Drag in the **Get Text** activity and specify the element, as shown below. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-1.png)
+1. Drag in the **Get Text** activity and specify the element, as shown below. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/GetText/GetText1.png)
 
-2. Open the selector window and click the "Unverified" button to check whether the specified element is recognized. Then click the "Confirm" button to close the selector window after successful recognition. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-2.png)
+2. Open the selector window and click the "Unverified" button to check whether the specified element is recognized. Then click the "Confirm" button to close the selector window after successful recognition. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/GetText/GetText2.png)
 
-3. Set the output text variable text: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-3.png)
+3. Set the output text variable text: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/GetText/GetText3.png)
 
-4. Drag in the **Confirm Message Box** activity and use the variable text as the content of the confirmation box. Click Run Flow to view the data obtained: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/getText-4.png)
+4. Drag in the **Confirm Message Box** activity and use the variable text as the content of the confirmation box. Click Run Flow to view the data obtained: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/GetText/GetText4.png)
