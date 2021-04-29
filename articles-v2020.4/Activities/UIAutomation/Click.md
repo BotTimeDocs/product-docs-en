@@ -40,10 +40,10 @@ Simulate mouse clicking operation. Desktop and browser elements are supported. A
 
 ## Operation sample
 
-1. Drag in the **Click** activity and specify the element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/click-1.png)
+1. Drag in the **Click** activity and specify the element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Click/Click1.png)
 
-2. Open the selector window and click on the Unverified button to verify whether or not the specified element is recognized: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/check-2.png)
+2. Open the selector window and click on the Unverified button to verify whether or not the specified element is recognized: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Click/Click2.png)
 
-3. The web page with the element specified in step 1 remains open. Click to run the flow. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/check-3.png)
+3. The web page with the element specified in step 1 remains open. Click to run the flow. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Click/Click3.png)
 
 For more types of clicks, please click on the [link](https://academy.encoo.com/learn/unit-detail/33) to view the ENCOO Academy advanced courses.
