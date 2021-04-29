@@ -28,8 +28,8 @@ Wait for the specified UI element to appear from the screen. Desktop and browser
 
 ## Operation sample
 
-1. Drag in the **Wait for Element to Appear** activity and set the corresponding property value: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/waitElementAppear1.png)
+1. Drag in the **Wait for Element to Appear** activity and set the corresponding property value: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/WaitElementAppear/Appear1.png)
 
-2. Specify an element and validate the existence of the element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/waitElementAppear2.png)
+2. Specify an element and validate the existence of the element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/WaitElementAppear/Appear2.png)
 
-3. Run the flow and view the results: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/waitElementAppear3.png)
+3. Run the flow and view the results: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/WaitElementAppear/Appear3.png)
