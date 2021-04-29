@@ -4,7 +4,7 @@
 
 You can use several debugging actions under the Run panel to perform debugging, and you can also view the specific process of debugging through other related panels.
 
-![Debug](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Debugging/debugging.PNG)
+![Debug](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/debugging20210428.png)
 
 ## Debugging Actions
 
@@ -61,11 +61,11 @@ You can set breakpoint in Studio. During the debugging process, when a breakpoin
 
 After inserting a breakpoint, a red dot will appear in the upper left corner of the activity.
 
-![Insert Breakpoint](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Debugging/breakpoints.PNG)
+![Insert Breakpoint](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/assign20210428.png)
 
 When debugging, execution will be paused at the breakpoint and the activity set with breakpoint will be highlighted.
 
-![Highlight](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Debugging/highlight.PNG)
+![Highlight](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/assignbreakpoint20210428.png)
 
 - **Disable and Enable Breakpoint**
 
@@ -76,4 +76,4 @@ After inserting a breakpoint, you can disable or reenable the breakpoint through
 
 After disabling a breakpoint, the red dot in the upper right corner of the activity will become a hollow circle.
 
-![Disable Breakpoint](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Debugging/disabledBreakpoint.PNG)
+![Disable Breakpoint](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/disableassign20210428.png)

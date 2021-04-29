@@ -2,7 +2,7 @@
 
 The Variables List can be used to create and modify variables.
 
-![Variables List](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/createdVariable.png)
+![Variables List](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/variables20210429.png)
 
 | Field| Description
 |----------|----------
@@ -19,7 +19,7 @@ The Variables List can be used to create and modify variables.
 
 ## Variable Context Menu
 
-![Menu](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/variablePanelMenu.png)
+![Menu](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/variablemenu20210429.png)
 
 | Field| Description
 |----------|----------

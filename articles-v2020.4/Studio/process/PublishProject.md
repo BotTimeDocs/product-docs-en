@@ -8,7 +8,7 @@ If you want to deliver an automation project directly to a robot for execution, 
 
 To implement the publishing flow, select the location you want to publish from the Toolbar -> Publish and click it.
 
-![Publish Project](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/publishProject/publishinpath20201019.png)
+![Publish Project](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/publish20210428.png)
 
 ## Publish Flow
 
@@ -18,7 +18,7 @@ To implement the publishing flow, select the location you want to publish from t
    
    - Publish to Console
      
-     ![Publish to Console](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/publishProject/publishproject20201214.png)
+     ![Publish to Console](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/publishtoconsole20210428.png)
      
      a. In the **Resource Group** section, you can select which resource group you want to publish the project to.
      
@@ -32,7 +32,7 @@ To implement the publishing flow, select the location you want to publish from t
    
    - Publish to Robot
      
-     ![Publish to Robot](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/publishProject/publishrobot20201214.png)
+     ![Publish to Robot](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/publishtorobot20210428.png)
      
      a. In the **Robot** section, the name of the robot that is currently activated in the system is displayed.
      
@@ -46,7 +46,7 @@ To implement the publishing flow, select the location you want to publish from t
    
    - Publish to Flow Market
      
-     ![Publish to Flow Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/publishProject/publishflowmarket20201214.png)
+     ![Publish to Flow Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/publishtoflowmarket20210428.png)
      
      a. In the **Flow Market** section, you can select which flow market you want to publish the project to. Please note that the first time you publish, you will need to configure your market through **Manage Market**, please refer to [Manage Market](../market/Market.md?_v=v2020.4) for details.
      
@@ -70,4 +70,4 @@ To implement the publishing flow, select the location you want to publish from t
    
    - Version number of the project
      
-     ![Published](https://docimages.blob.core.chinacloudapi.cn/images/Studio/automationProject/publishProject/publishsucess20201214.png)
+     ![Published](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/projectpublished20210428.png)

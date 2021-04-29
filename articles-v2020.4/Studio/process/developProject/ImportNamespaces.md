@@ -4,7 +4,7 @@ Namespaces store different types of data, allowing you to define the scope of ex
 
 **Import** allows you to enter namespaces for the types that will be used in the expressions. Much like Import or Use Keywords in Visual Basic and C#, specifying namespaces in Import allows you to enter only the type name in the expression, rather than the fully qualified version type name. To open Import, please click "Import" in the editing area.
 
-![Import](https://docimages.blob.core.chinacloudapi.cn/images/Studio/importNamespaces/import.PNG)
+![Import](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/importnamespace20210429.png)
 
 Import responds both to changes in the UI and to changes made when the flow is saved. After saving the flow, the namespace will be automatically added to Import. These stores include the following:
 
@@ -22,7 +22,7 @@ When saving the flow, you may notice that some namespaces you have manually dele
 
 3. Enter a namespace and select a namespace from the drop-down box. When typing, a list of valid namespaces matching the typed characters will be displayed.
    
-    ![Search Namespace](https://docimages.blob.core.chinacloudapi.cn/images/Studio/importNamespaces/importNamespaces.png)
+    ![Search Namespace](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/namespacelist20210429.png)
 
 4. Press Enter to add the namespace to the list.
 

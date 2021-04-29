@@ -10,7 +10,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 ## Create Variable
 
-![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/variabletips.png)
+![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/variables20210429.png)
 
 > **Note:**
 > 
@@ -24,7 +24,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click the name, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Activity-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fromactivitycreate20210429.png)
 
 - **From the Properties Panel**
 
@@ -32,7 +32,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click the name, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Property-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/frompropertiescreate20210429.png)
 
 - **From Expression Editor**
 
@@ -40,7 +40,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click a part of the expression, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Editor-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fromexpressioneditor20210429.png)
 
 > **Note:**
 > 
@@ -50,7 +50,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 1. Right click the current activity to bring up the context menu and click "Create Variable".
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/menu-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fromcontextmenucreate20210429.png)
 
 2. Fill in the name and press Enter. You can view and edit it in the Variables list. The scope of such variables is the smallest container it is part of.
 
@@ -62,31 +62,31 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 1. In the editing area, click "Variables". The "Variables" list is displayed.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/variablePanel-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/variables20210429.png)
 
 2. Click "Create Variable", a new variable with default field value is displayed.
 
-> **Note:**
-> 
-> The default type of all new variables created from "Variables List" is String.
+    > **Note:**
+    > 
+    > The default type of all new variables created from "Variables List" is String.
 
 ## Delete Variable
 
 1. In the Variables List, select and right click a variable. Click "Delete" in the context menu.
    
-    ![Delete Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/deleteVariable.png)
+    ![Delete Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/deletevariable20210429.png)
 
 2. In the Variables List, select a variable and press Delete.
 
-> **Note:**
-> 
-> To undo this operation, press Ctrl + Z.
+    > **Note:**
+    > 
+    > To undo this operation, press Ctrl + Z.
 
 ## Search Variable
 
 When variables are used in multiple places in multiple flow files and you need to find and locate them, you can search them from the Quick Search box in the menu bar or from the **View > Search** menu.
 
-![Search and Locate Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/searchvariables20210323.png)
+![Search and Locate Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/searchvariable20210429.png)
 
 Enter the variable to be searched in the search box to find and locate the specified variable in all flow files.
 
@@ -94,7 +94,7 @@ Enter the variable to be searched in the search box to find and locate the speci
 > 
 > In the upper right corner of the search results, select corresponding option from the drop-down list to search in "All Files" and "Current File".
 
-![Search Results](https://docimages.blob.core.chinacloudapi.cn/images/Studio/searchvariablesresult20210323.png)
+![Search Results](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/search20210429.png)
 
 ## Browse .Net Variable Type
 
@@ -102,16 +102,16 @@ To search for types of variables that are not displayed by default in the "Varia
 
 1. In the Variables list, from the "Variable Type" drop-down list, select "Browser Type". The "Browse and Select a .Net Type" window is displayed.
    
-    ![Browser Type](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/viewTypeOfVariable.png)
+    ![Browser Type](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/browsefortypes20210429.png)
 
 2. In the "Type Name" field, type a keyword for the variable you are looking for, such as table.
    
-    ![Enter Variable Type](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/inputTable.png)
+    ![Enter Variable Type](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/searchtype20210429.png)
 
 3. Select table type and click "OK". The variable type is displayed in the "Variable Type" drop-down list.
    
-    ![Select Type](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/confirmTable.png)
+    ![Select Type](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/searchtable20210429.png)
 
-> **Note:**
-> 
-> After first using a variable type from the "Browse and Select a .Net Type" window, it is displayed in the "Variable Type" drop-down list, in the Variables list.
+    > **Note:**
+    > 
+    > After first using a variable type from the "Browse and Select a .Net Type" window, it is displayed in the "Variable Type" drop-down list, in the Variables list.

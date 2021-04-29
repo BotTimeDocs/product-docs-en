@@ -59,4 +59,4 @@
    
     **A:** Open the Studio, choose **Start > Tools > Extension**, click "Chrome Extension", and then follow the wizard to complete the installation. After the installation is complete, open the Chrome browser manually and enter chrome://extensions/ to enable the extension.
    
-    ![Install Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)
+    ![Install Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210427.png)

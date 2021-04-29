@@ -8,17 +8,17 @@ The activity packages in the activity market can be linked to a specified projec
 
 2. Open the Activity Market window.
    
-    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/activitymarket20201214.png)
+    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/activitymarket20210427.png)
 
 3. Search and find the activity you need to install.
 
 4. Hover the mouse over the activity package and click "Install" to install the activity.
    
-    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/installactivity20201214.png)
+    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installactivitymarket20210427.png)
 
 5. After the installation is complete, you can find the activity you just installed in the activity list and drag and drop it to use.
    
-    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/instalactivitytool20201214.png)
+    ![Activity Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/keytab20210427.png)
    
    > **Description:**
    > 
@@ -30,7 +30,7 @@ In the Activity Market window, there exists an additional category: Installed Ac
 
 * **Installed Activities** exists only for the current project. Only the installed activity packages for the current project are displayed, and this page allows you to manage the dependencies in the project.
   
-    ![Installed activities](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/installactivitydone20201214.png)
+    ![Installed activities](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installedactivities20210427.png)
 
 ## Manage Dependencies
 

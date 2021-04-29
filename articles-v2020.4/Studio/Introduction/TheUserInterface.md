@@ -4,14 +4,14 @@ The ENCOO RPA studio features a simple and intuitive layout that maximizes space
 
 ## Start Homepage
 
-![Start Main Interface](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/start20201019.png)
+![Start Main Interface](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/starthomepage20210428.png)
 
 1. **New** - Create a new flow project or activity project.
 2. **Recent** - Open the most recent project you have worked on. The operations such as **Open Project Folder**, **Export Project**, **Delete Project**, and **Remove From Recent Use List** can be performed. Click the **More Projects** link to view more recently processed projects, and you can fuzzy search the **Recent Use** list.
 
 ### New
 
-![New](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/start20201118.png)
+![New](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/new20210428.png)
 
 1. **New** - Create a new flow project or activity project.
 2. **New from Template** - Start a new project from a predefined template.
@@ -19,7 +19,7 @@ The ENCOO RPA studio features a simple and intuitive layout that maximizes space
 
 ### Open
 
-![Open](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/indexopen20201118.png)
+![Open](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/open20210428.png)
 
 1. **Recent Use** - Open the most recent project you have worked on.
 
@@ -33,7 +33,7 @@ The ENCOO RPA studio features a simple and intuitive layout that maximizes space
 
 ### Tool
 
-![Tool](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/tool20201019.png)
+![Tool](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210428.png)
 
 1. **Applications** - The **Element Detector** application widget is supported.
 2. **Extensions** - Various extensions can be quickly installed to automate different applications.
@@ -53,7 +53,7 @@ The ENCOO RPA studio features a simple and intuitive layout that maximizes space
 
 **Help** can direct you to online courses, product documentation, release notes, online resources, community forums, and official websites. You can also find information about product versions on the **Help** page.
 
-![Help Information](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/help20210317.png)
+![Help Information](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/help20210428.png)
 
 - **Update Descriptions**: Click the "Update Descriptions" link to view the new or optimized features of the current version of the studio.
 - **Modify**: Click on the "Modify" link to switch the login activation method (Community Edition, Enterprise Edition).
@@ -86,21 +86,36 @@ The project panel provides some buttons for you to save the project so as to hel
   > - A screenshot cannot be deleted from a flow file if there is a backup file of the relevant flow in the Backup folder under the project file.
   > - If it is a screenshot of a custom file name, it cannot be deleted.
 
-![Project Panel](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/projectpanel20210126.png)
+![Project Panel](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/project20210428.png)
 
-By right-clicking on any file or folder in the projects panel, you can open a context menu containing the following options: \|Option \|Description \| \|-----------\|---------------------------------------\| \| Open \|Open a project or file\| \|Add\|Select the options that can be added under the selected project: [Sequence](../process/developProject/TypeOfWorkflow/Sequence.md), [Flowchart](../process/developProject/TypeOfWorkflow/Flowchart.md), [State Machine](../../Activities/WorkflowControl/StateMachine/StateMachine.md), Folder\| \|Import File\| Import local files to the currently specified folder\| \|Rename \|It enables you to rename the currently selected file or folder\| \|Delete \|Delete the selected file or folder \| \|Export Project \|Export the selected project. After it is exported, a .dgs (flow project) or .egs (activity project) file will be automatically generated\| \|Reference Projects\|Reference other projects (support folders and files) as dependencies\| \|Open Local Folder \|Open the local folder of the selected project or file\| \|Project Settings \|Open [Project Settings](../process/ProjectSettings.md) to set the properties of some category of activity\| \|Property\|View or edit the property information of the project, including project name, author, and version\| \|Debug File\|Debug the selected .xaml file\| \|Run File\|Run the selected .xaml file\| \|Exclude from Project\|Exclude a folder or file from the project. Click "Show All" in the upper-right corner to view the excluded folders or files. Project folders, dependencies, Main.xaml, and project.json are not allowed to be excluded\| \|Include in Project\| Include the excluded folders or files in the project. Project folders, dependencies, Main.xaml, and project.json are not allowed to be included\|
+By right-clicking on any file or folder in the projects panel, you can open a context menu containing the following options:
+ 
+|Option |Description |
+|-----------|---------------------------------------|
+| Open|Open a project or file| 
+|Add|Select the options that can be added under the selected project: [Sequence](../process/developProject/TypeOfWorkflow/Sequence.md), [Flowchart](../process/developProject/TypeOfWorkflow/Flowchart.md), [State Machine](../../Activities/WorkflowControl/StateMachine/StateMachine.md), Folder|
+ |Import File| Import local files to the currently specified folder|
+ |Rename|It enables you to rename the currently selected file or folder|
+ |Delete|Delete the selected file or folder|
+ |Export Project|Export the selected project. After it is exported, a .dgs (flow project) or .egs (activity project) file will be automatically generated|
+ |Reference Projects|Reference other projects (support folders and files) as dependencies|
+ |Open Local Folder|Open the local folder of the selected project or file|
+ |Project Settings|Open [Project Settings](../process/ProjectSettings.md) to set the properties of some category of activity|
+ |Property|View or edit the property information of the project, including project name, author, and version|
+ |Debug File|Debug the selected .xaml file|
+ |Run File|Run the selected .xaml file||Exclude from Project|Exclude a folder or file from the project. Click "Show All" in the upper-right corner to view the excluded folders or files. Project folders, dependencies, Main.xaml, and project.json are not allowed to be excluded||Include in Project| Include the excluded folders or files in the project. Project folders, dependencies, Main.xaml, and project.json are not allowed to be included|
 
 > **Note:**
 > 
-> 1\. A master flow file Main.xaml will be automatically created under a project, and the master flow file is not allowed to be renamed
+> 1. A master flow file Main.xaml will be automatically created under a project, and the master flow file is not allowed to be renamed
 > 
-> 2\. An unlimited number of new sub-flow files can be created under a project (with any file name)
+> 2. An unlimited number of new sub-flow files can be created under a project (with any file name)
 
 ### Outline Panel
 
 The **outline panel** is used to display the hierarchical structure of the current flow file. You can locate an activity in the editing area by selecting an activity in the outline, or you can display an activity in the outline by selecting an activity in the editing area.
 
-![Outline Panel](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/guideline20201019.png)
+![Outline Panel](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/outline20210428.png)
 
 ### Activity Panel
 
@@ -108,7 +123,7 @@ The **activity panel** mainly displays the activities that need to be used in th
 
 The F1 shortcut or "Help" in the activity's context menu allows you to quickly open the corresponding activity's help file to learn more about the activity and how to use it.
 
-![Activity](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/activitypanel20201019.png)
+![Activity](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/activity20210428.png)
 
 ### Run Panel
 
@@ -116,17 +131,17 @@ The **run panel** mainly displays all information related to running and debuggi
 
 When **running** an automation project, detailed information about the relevant running process of all the projects will be displayed in the output panel. When an error occurs in the flow, you can easily locate the activity where the error occurs through the log.
 
-![Running](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/runpanel20201019.png)
+![Running](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/debug20210428.png)
 
 **Debugging** focuses on identifying and clearing errors in a flow by setting breakpoints to improve the flow and improve its correctness. When debugging, both the variable panel and output panel will be opened to display relevant debugging information. For more information on debugging, see [Debug](../process/Debugging/Debugging.md?_v=v2020.4).
 
-![Debug](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar-debug.png)
+![Debug](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/debugging20210428.png)
 
 ### Version Control Panel
 
 The **version control panel** is used to record the changes in the contents of files in a project so that revisions to a specified version can be viewed in the future. Click "Enable" to enable version control.
 
-![Version Control](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/versioncontrol20201214.png)
+![Version Control](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/enable20210428.png)
 
 ### Market Panel
 
@@ -140,7 +155,7 @@ The **market panel** allows you to open the activity market and the flow market.
 
 For more information about the market, please see [ENCOO Market](../market/Market.md?_v=v2020.4).
 
-![Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/marketpanel20201019.png)
+![Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/marketpanel20210428.png)
 
 <!-- ![组件市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar.PNG)![流程市场](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar.PNG) -->
 <!--### 扩展面板
@@ -160,13 +175,13 @@ For more information on publishing automation projects, please see [Publish Auto
 
 Open **Personal Information** by clicking ![Personal Information](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar-user.PNG) on the right side of the menu bar to log out.
 
-![Personal Information](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/toolbar-usersetting.png)
+![Personal Information](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/logout20210428.png)
 
 ### Editing Area
 
 The **editing area** displays the project you are working on and you can make changes to it. The bottom navigation bar in the editing area gives you quick access to variables, parameters, and import namespaces.
 
-![Design](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/design.png)
+![Design](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/editingarea20210428.png)
 
 - By double-clicking on an activity, you can view the specific contents of the activity and add and change its property.
 
@@ -180,7 +195,7 @@ The **editing area** displays the project you are working on and you can make ch
 
 The context menu allows you to perform a variety of operations on the current activity such as copy, paste, and delete. You can open the context menu by right-clicking on the current activity range.
 
-![Editing Area Menu](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/rightmenu20210317.png)
+![Editing Area Menu](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/rightmenu20210428.png)
 
 | Options| Description
 |----------|----------
@@ -215,7 +230,7 @@ The **properties panel** is presented inside the editing area. It displays the r
 > 
 > When entering the property value, if the property value is a string, you need to put the string in English double quotes.
 
-![Property](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/properties.png)
+![Property](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/propertiespanel20210428.png)
 
 ### Output Panel
 
@@ -227,7 +242,7 @@ When there is a problem with project validation, an error message will be displa
 
 Please note that the log information stored in this panel will be cleared automatically each time you run or debug the project.
 
-![Property](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/outputPanel.png)
+![Property](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/output20210428.png)
 
 ## Quick Access Page
 
@@ -237,7 +252,7 @@ When you open a project, the system shall open the "**Quick Access**" menu by de
 > 
 > If you do not want this page to open when you open a project, you can set the option "Show quick access page when opening a project" to be unchecked in "Start > Settings > Projects".
 
-![Quick Access Page](https://docimages.blob.core.chinacloudapi.cn/images/Studio/userInterface/quickstart20210317.png)
+![Quick Access Page](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/quickopen20210428.png)
 
 - **Quick Open**: Drag and drop the flow file (xaml type) you want to open quickly from the project panel to the "Add File" area. Click on the file to open it quickly.
   

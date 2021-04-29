@@ -8,21 +8,21 @@ You can use the code market to get the NuGet application and add it to the RPA f
 
 2. Open the Code Market window.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/codemarket20201214.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/codemarket20210427.png)
 
 3. Search and find the package you need to install.
 
 4. Hover the mouse pointer over the package and click "Install" to install it.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/installcode20201214.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installcodemarket20210427.png)
 
 5. A license may be required to be accepted for installation.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-3.png)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/alicense20210427.png)
 
 6. You can view the information about the downloaded packages in the "Dependencies" of the project
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-4.PNG)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/dependency20210428.png)
    
     > **Note:**
     > 
@@ -32,7 +32,7 @@ You can use the code market to get the NuGet application and add it to the RPA f
 
 7. You can search for the downloaded package in the *Import* section of the editing area and then click on it to reference it to your project.
    
-    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/CM-5.PNG)
+    ![Code Market](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/import20210428.png)
 
 ## Installed Packages
 
@@ -40,7 +40,7 @@ In the Code Market window, there exists an additional category: Installed Packag
 
 * **Installed Packages** exists only for the current project. Only the installed packages for the current project are displayed, and this page allows you to manage the dependencies in the project.
   
-    ![Installed Packages](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/installdonecode20201214.png)
+    ![Installed Packages](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installed20210428.png)
 
 ## Manage Dependencies
 
