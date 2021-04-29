@@ -4,9 +4,13 @@ By opening the **Console Flow**, you can view and edit the flow of the console.
 
 ## Open Console Flow
 
-1. Open the ENCOO RPA Studio and log in using the console account.![Console Account Login](https://docimages.blob.core.chinacloudapi.cn/images/Studio/workingProcess/consoleaccount20201112.png)
+1. Open the ENCOO RPA Studio and log in using the console account.
 
-2. On the start homepage, select "Open" -> "Console Flow". Then you will get all the flows under your resource group.![Open Console Flow](https://docimages.blob.core.chinacloudapi.cn/images/Studio/workingProcess/openconsoleflow20201112.png)
+    ![Console Account Login](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/logginginbyconsole20210427.png)
+
+2. On the start homepage, select "Open" -> "Console Flow". Then you will get all the flows under your resource group.
+
+    ![Open Console Flow](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/openconsoleflow20210429.png)
 
 3. In the resource group drop-down list, you can select the resource group you want to view. When the selection is complete, all the flows under that resource group will be loaded.
 
@@ -22,7 +26,9 @@ By opening the **Console Flow**, you can view and edit the flow of the console.
 
 1. Follow the normal editing steps to edit the open flow.
 
-2. Once the editing is complete, you can publish the flow to the console again.![Publish Flow](https://docimages.blob.core.chinacloudapi.cn/images/Studio/workingProcess/publishconsole20201112.png)
+2. Once the editing is complete, you can publish the flow to the console again.
+
+    ![Publish Flow](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/publishtoconsole20210429.png)
    
    > **Note:**
    > 

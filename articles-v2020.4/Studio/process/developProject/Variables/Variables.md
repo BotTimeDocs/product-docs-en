@@ -10,7 +10,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 ## Create Variable
 
-![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/variabletips.png)
+![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/variables20210429.png)
 
 > **Note:**
 > 
@@ -24,7 +24,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click the name, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Activity-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fromactivitycreate20210429.png)
 
 - **From the Properties Panel**
 
@@ -32,7 +32,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click the name, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Property-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/frompropertiescreate20210429.png)
 
 - **From Expression Editor**
 
@@ -40,7 +40,7 @@ The data stored within a variable is called a value, and it can be of multiple t
 
 2. Select and right click a part of the expression, select "Create Variable" from the context menu, or press **Ctrl+B** shortcut key, the variable is created. Check its type and scope in the Variables list.
    
-    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Variable/Editor-createVariable.png)
+    ![Create Variable](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fromexpressioneditor20210429.png)
 
 > **Note:**
 > 
