@@ -31,26 +31,26 @@ Get structured data for a specified page, and the page can be automatically turn
 
 1. Open a web page containing structured data (such as http://news.baidu.com), and drag in the **Get Structured Data** activity. Click Specify Data Source and specify the first element. Then a "Wizard" dialog box will pop up to prompt you to specify the second element of the data source, as shown below.
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-1.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured1.png)
 
 2. Specify the second element, and the Wizard dialog box will show the default text column name. Then click the "Next" button, and the "Wizard" dialog box shows all the data obtained and the default maximum number of extracted items: 50:
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured2.png)
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-3.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured3.png)
 
 3. Add data table variables and click the "OK" button.
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-4.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured4.png)
 
 4. Click "Yes" or "No" as needed. If you select "Yes", continue to select the element on the application page. If you select "No", the process of specifying elements ends
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-5.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured5.png)
 
 5. Drag in the **Preview Data Table** activity and enter the data table variable dt defined in the above operation:
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-6.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured6.png)
 
 6. Click Run Flow to view the acquired data, as shown below.
    
-    ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/extractStructureData-7.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/StructuredData/Structured7.png)
