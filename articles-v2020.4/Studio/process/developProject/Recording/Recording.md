@@ -63,7 +63,7 @@ Keyboard shortcuts that you can use while recording:
 
 - **Recorder Interface**
 
-![Recorder](https://docimages.blob.core.chinacloudapi.cn/images/Studio/recording/recorder.PNG)
+![Recorder](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/smartrecorder20210429.png)
 
 | Options| Description
 |----------|----------
@@ -78,4 +78,4 @@ Keyboard shortcuts that you can use while recording:
 
 When the recorder has recorded some automated actions, a preview interface shall be generated. In this interface, you can change and delete the recorded actions to refine your automation flow.
 
-![Preview Interface](https://docimages.blob.core.chinacloudapi.cn/images/Studio/recording/preview.PNG)
+![Preview Interface](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/recorderpreviewinterface20210429.png)

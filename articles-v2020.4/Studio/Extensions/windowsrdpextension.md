@@ -16,7 +16,7 @@ To get the support of native RDP automation, you need to perform the following s
 
 2. Click the Windows Remote Desktop Extension icon to install ENCOO Windows Remote Desktop Extension. Follow the wizard to complete the installation.
    
-   ![Entry for Windows Remote Desktop Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/windowsrdp20210324.png)
+   ![Entry for Windows Remote Desktop Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/windowsrdp20210429.png)
 
 ### Set up the Remote Desktop Computer
 
