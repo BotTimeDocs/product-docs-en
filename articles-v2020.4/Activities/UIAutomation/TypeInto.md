@@ -29,8 +29,8 @@ It simulates the operation of input text to enter the text to a specified locati
 
 ## Operation sample
 
-1. Drag in the **Enter Text** activity and specify an element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setText.png)
+1. Drag in the **Enter Text** activity and specify an element: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Typeinto/TypeInto1.png)
 
-2. Open the selector window and click the "Unverified" button to check whether the specified element is recognized. If the recognition is successful, click the "Confirm" button to close the window. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setTex-1.png)
+2. Open the selector window and click the "Unverified" button to check whether the specified element is recognized. If the recognition is successful, click the "Confirm" button to close the window. ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Typeinto/TypeInto2.png)
 
-3. Enter the text and click Run Flow to view the results: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/setTex-2.png)
+3. Enter the text and click Run Flow to view the results: ![](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/Typeinto/TypeInto3.png)
