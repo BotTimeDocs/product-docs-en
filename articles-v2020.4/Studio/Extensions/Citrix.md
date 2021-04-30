@@ -24,7 +24,7 @@ Citrix extension is installed on the local computer to allow Encoo Studio/Robot 
 
 1. In the "**Start > Tools**" page of the studio, get the local Encoo Citrix extension.
 2. Click **Citrix Extension** and follow the installation wizard to install.
-   ![Install Citrix Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/citrixpath20210107.png)
+   ![Install Citrix Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210430.png)
 
 ### Configure Remote Server
 

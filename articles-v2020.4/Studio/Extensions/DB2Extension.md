@@ -11,7 +11,8 @@ Install the IBM DB2 extension to automate IBM DB2 database.
 1. Run the studio or robot as an administrator, and find **IBM DB2 Extension** in **Start > Tools > Extension** of studio or **Settings > Extension** of robot.
 2. Click the **IBM DB2 Extension** icon.
 3. In the **Install EBM DB2 Extension** pop-up box, click the OK button to install. ![IBM DB2 Installation Prompts](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ibmdb220210105.png)
-4. If the installation is normal completed, you will be prompted that the installation is successful. ![Installation Successful ](https://docimages.blob.core.chinacloudapi.cn/images/Activities/tips20210105.png)
+4. If the installation is normal completed, you will be prompted that the installation is successful.
+    ![Installation Successful ](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/ibmdb220210430.png)
 5. Click the OK button to complete the installation.
 
 ## Uninstall

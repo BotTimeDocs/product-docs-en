@@ -10,7 +10,7 @@ In Studio or Robot, you can automate the browser by installing the **Microsoft E
 
 1. Under **Tools > Extension** in the studio, you can see the Microsoft Edge extension you need to install.
    
-    ![Microsoft Edge Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)
+    ![Microsoft Edge Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210430.png)
    
     > **Description:**
     > 
@@ -18,7 +18,7 @@ In Studio or Robot, you can automate the browser by installing the **Microsoft E
 
 2. Click Microsoft Edge Extension button. The installation dialog is displayed, click OK.
    
-    ![Confirm to Install Microsoft Edge Extension](https://docimages.blob.core.chinacloudapi.cn/images/Amanda/Extension/Edge/InstallWindow.jpg)
+    ![Confirm to Install Microsoft Edge Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installmicrosoftedge20210430.png)
 
 3. Open Microsoft Edge browser, and click **Extension** in the side navigation bar.
    
