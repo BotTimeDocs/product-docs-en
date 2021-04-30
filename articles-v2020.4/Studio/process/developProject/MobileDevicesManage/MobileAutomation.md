@@ -12,19 +12,19 @@ Take turning off mobile data on a phone as an example.
 
 1. Drag a **Connect Device** activity into the flow.
    
-    ![Connect Device](https://docimages.blob.core.chinacloudapi.cn/images/Studio/connectdevices20201104.png)
+    ![Connect Device](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/connectdevices20210430.png)
 
 2. In the **Mobile Device Manager** panel, click the "Copy Device Information" option.
    
-    ![Copy Device Information](https://docimages.blob.core.chinacloudapi.cn/images/Studio/copydevices20201104.png)
+    ![Copy Device Information](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/copydeviceinformation20210430.png)
 
 3. Double-click on the **Connect Device** activity in the flow screen and click on "Autofill in One Click" to automatically fill in the information for the connected device.
    
-    ![Connect Device](https://docimages.blob.core.chinacloudapi.cn/images/Studio/connectdevicesfullin20201104.png)
+    ![Connect Device](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/oneclickfill20210430.png)
 
 4. In the "Mobile Device Manager" panel, click the "Record" button in the "Smart Recorder" on the right side to record.
    
-    ![Smart Recording](https://docimages.blob.core.chinacloudapi.cn/images/Studio/recoder20201104.png)
+    ![Smart Recording](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/mobiledevicemanager20210430.png)
    
     > **Description:**
     > 
@@ -32,11 +32,11 @@ Take turning off mobile data on a phone as an example.
 
 5. For the recorded flow, after you click the "Save" button, a sequence will automatically be generated in the "**Connect Device**" activity.
    
-    ![Flow Recording Completed](https://docimages.blob.core.chinacloudapi.cn/images/Studio/flowdone20201104.png)
+    ![Flow Recording Completed](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/connectdevice20210430.png)
 
 6. Click the "Run" button in the **run panel** to run the flow.
    
-    ![Run](https://docimages.blob.core.chinacloudapi.cn/images/Studio/run20201104.png)
+    ![Run](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/runpanel20210430.png)
 
 </br> A separate mobile phone interface will pop up in the running flow to simulate the effect of manually operating the phone.
 

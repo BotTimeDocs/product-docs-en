@@ -11,7 +11,7 @@ In Studio or Robot, you can automate the browser by installing the **Firefox Ext
 
 1. Under **Tools > Extension** in Studio, you can see the Firefox extension you need to install.
    
-    ![FireFox Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)
+    ![FireFox Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210430.png)
    
     > **Description:**
     > 
@@ -19,7 +19,7 @@ In Studio or Robot, you can automate the browser by installing the **Firefox Ext
 
 2. Click Firefox Extension, and click OK in the pop-up dialog box.
    
-    ![Confirm to Install Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/firefox-installation.PNG)
+    ![Confirm to Install Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installfirefoxextension20210430.png)
 
 3. Open Firefox browser, and click Add in the Add Extension dialog box.
    

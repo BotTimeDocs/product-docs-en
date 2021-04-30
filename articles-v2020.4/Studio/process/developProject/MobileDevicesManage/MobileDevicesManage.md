@@ -12,13 +12,13 @@ The following operations are performed on the PC of the Windows operating system
 
 1. **Create or open a project**. Select and click "**Tools > Mobile Device Manager**" in the menu bar.
    
-    ![Mobile Device Manager Portal](https://docimages.blob.core.chinacloudapi.cn/images/Studio/mobiledevicesmanage20201104.png)
+    ![Mobile Device Manager Portal](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/mobiledevicemanagermenu20210430.png)
 
 2. **Add a device**. Find the device by platform type in the **Mobile Device Manager** pop-up and add it.
    
    - **Android**
    
-    ![Add an Android device](https://docimages.blob.core.chinacloudapi.cn/images/Studio/adddevices20201104.png)
+    ![Add an Android device](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/adddevice20210430.png)
    
    - **IOS**
    
@@ -32,7 +32,7 @@ The following operations are performed on the PC of the Windows operating system
    
    - **Real Device Interface**:
    
-    ![Real Device Interface](https://docimages.blob.core.chinacloudapi.cn/images/Studio/mobileUI20201104.png)
+    ![Real Device Interface](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/realdeviceinterface20210430.png)
    
    - **Emulator Interface**:
    

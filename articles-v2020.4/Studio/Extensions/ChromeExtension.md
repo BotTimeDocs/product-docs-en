@@ -11,7 +11,7 @@ In the studio or robot, you can automate the browser by installing the Chrome ex
 
 1. Under **Tools > Extension** in the studio, you can see the Chrome extension you need to install.
    
-    ![Chrome Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Market/extensioninpath20201019.png)
+    ![Chrome Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/tool20210430.png)
    
     > **Description:**
     > 
@@ -19,7 +19,7 @@ In the studio or robot, you can automate the browser by installing the Chrome ex
 
 2. Click "Chrome Extension", and click "OK" in the pop-up dialog box.
    
-    ![Confirm to Install Chrome Extension](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/chrome-installation.PNG)
+    ![Confirm to Install Chrome Extension](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/installchromeextension20210430.png)
 
 3. Open Chrome browser and click "More Tools > Extension" in the side navigation bar.
    
