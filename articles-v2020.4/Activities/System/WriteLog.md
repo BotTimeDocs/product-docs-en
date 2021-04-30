@@ -20,11 +20,15 @@ It controls the content of the log output. The logs after this activity will be 
 
 1. Drag a **Write to Log** activity into the flow.
 
-2. Double-click the **Write to Log** activity in the margin to configure the property parameters. ![Write to Log Configuration](https://docimages.blob.core.chinacloudapi.cn/images/Activities/writelogsetting20201221.png)
-   
+2. Double-click the **Write to Log** activity in the margin to configure the property parameters. 
+
+   ![Write to Log Configuration](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/writelog20210430.png)
+
    - Log level: Drop down to select the log level, such as Info
    - Log content: Enter the log content, such as "Here is the written log content"
 
 3. Save and execute the flow.
 
-4. View the execution results in the output panel, as shown in the figure below. ![View Execution Results](https://docimages.blob.core.chinacloudapi.cn/images/Activities/writelogoutput20201221.png)
+4. View the execution results in the output panel, as shown in the figure below. 
+
+   ![View Execution Results](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/thecontent20210430.png)

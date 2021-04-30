@@ -24,8 +24,10 @@ The information that needs to be confirmed manually is presented in the form of 
 
 1. Drag a **Confirm Message Box** activity into the flow.
 
-2. Double-click the **Confirm Message Box** activity in the margin to configure the property parameters. ![Confirm Message Box Configuration](https://docimages.blob.core.chinacloudapi.cn/images/Activities/comfirmsetting20201221.png)
-   
+2. Double-click the **Confirm Message Box** activity in the margin to configure the property parameters.
+
+    ![Confirm Message Box Configuration](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/confirmmessagebox20210430.png)
+
    - Title: Enter the title of the confirm message box, such as "Confirm"
    - Description: Enter the description of the confirm message box, such as "Please confirm. Do you want a pop-up box?"
 
@@ -33,7 +35,7 @@ The information that needs to be confirmed manually is presented in the form of 
 
 4. View the execution results, as shown in the figure below.
    
-   ![View Execution Results](https://docimages.blob.core.chinacloudapi.cn/images/Activities/showresult20201221.png)
+   ![View Execution Results](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/confirmpopup20210430.png)
    
    > **Description:**
    > 

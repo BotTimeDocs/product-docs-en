@@ -17,10 +17,18 @@ Preview the specified input data table, that is, present the data content of the
 
 ## Operation sample
 
-1. Drag the **Build Data Table** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/BulidDataTable20201224.png)
+1. Drag the **Build Data Table** activity into the project flow: 
 
-2. Double-click to open the Build Data Table builder and edit the column information and row values. Create a variable of the DataTable type to store the output data table, such as table, as shown below. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/BulidDataTable2020122402.png)
+    ![drag the build data table](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/dragthebuilddatatable20210430.png)
 
-3. Drag in the **Preview Data Table** activity and fill in the data table variable table already built above. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/BulidDataTable2020122403.png)
+2. Double-click to open the Build Data Table builder and edit the column information and row values. Create a variable of the DataTable type to store the output data table, such as table, as shown below.
+    
+    ![preview data table](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/builddatatable20210430.png)
 
-4. Click Run and view the results. Check if the previewed data table is consistent with the data table built. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/BulidDataTable2020122404.png)
+3. Drag in the **Preview Data Table** activity and fill in the data table variable table already built above.
+
+    ![preview data table](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/previewdatatable20210430.png)
+
+4. Click Run and view the results. Check if the previewed data table is consistent with the data table built. 
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/viewtheresults20210430.png)
