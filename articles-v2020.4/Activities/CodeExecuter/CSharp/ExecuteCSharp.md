@@ -17,7 +17,7 @@ It provides a C# code editor and supports writing C# class, function, and other 
 
 2. Double-click on the activity's blank space to bring up the file path that has been populated by default and the Edit Code button.
    
-    ![CSharpUI](https://docimages.blob.core.chinacloudapi.cn/images/Activities/CSharp20201211.png)
+    ![CSharpUI](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/excutecsharpcode20210430.png)
    
    - File path: Click the "..." button, select the path to the C# file and open it, such as Dworkspace\\Encoo\\activityflow\\code\\CSharp\\executeCSharpcode.cs
    
@@ -27,10 +27,10 @@ It provides a C# code editor and supports writing C# class, function, and other 
        > 
        > Variable references are supported here, and variables `m` and `n` of type String are defined in the editor beforehand.
      
-       ![Execute C# Code Snippet](https://docimages.blob.core.chinacloudapi.cn/images/Activities/executecsharpcode20210303.png)
+       ![Execute C# Code Snippet](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/csharpcodeeditor20210430.png)
 
 3. Save and execute the flow.
 
 4. View the run results in the output window.
    
-   ![Operation Result](https://docimages.blob.core.chinacloudapi.cn/images/Activities/executecsharpresult20210303.png)
+   ![Operation Result](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/csharpresult20210430.png)

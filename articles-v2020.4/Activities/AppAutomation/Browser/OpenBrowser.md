@@ -41,8 +41,14 @@ This activity is also often used as a container. Some other web action activitie
 
 ## Operation sample
 
-1. Drag the **Open Browser** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenBrowser20201221-01.png)
+1. Drag the **Open Browser** activity into the project flow:
 
-2. Select the browser type and enter the URL: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenBrowser20201221-02.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/openbrowser20210430.png)
 
-3. Click Run to view the results: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenBrowser20201221-03.png)
+2. Select the browser type and enter the URL:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/settingproperty20210430.png)
+
+3. Click Run to view the results:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/openbaidu20210430.png)
