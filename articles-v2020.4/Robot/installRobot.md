@@ -8,6 +8,6 @@ Download the latest version of the robot installation package on the local hard 
 
 Double click the installation package to install the latest version of the robot.
 
-![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/InstallRobot-1.gif)
+![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/InstallRobot-1.gif)
 
 Only one robot is allowed to be installed on a machine. If you have an older version of the robot installed on your machine, the application will ask to **uninstall** the older version before **installing** it.

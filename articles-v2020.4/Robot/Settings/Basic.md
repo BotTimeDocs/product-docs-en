@@ -1,6 +1,6 @@
 # Basic
 
-![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotsettingpage20210113.png)
+![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/robotsettingpage20210113.png)
 
 ## Basic settings
 

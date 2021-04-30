@@ -9,4 +9,4 @@ This page displays the flow history, with each record including:
 - Execution Status: The execution results of the current record
 - Operation: The current flow can be executed again by clicking \[Execute] directly from the record. Click \[Log] to view the details of current record
 
-![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/Robot-History-0.png)
+![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/Robot-History-0.png)

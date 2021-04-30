@@ -6,4 +6,4 @@ This page displays basic information about the current robot, including the robo
 
 - If the robot (Enterprise Edition) is **activated locally**, you can view the license expiration date on this page.
 
-![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/about20201118.png)
+![robot1](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/about20201118.png)

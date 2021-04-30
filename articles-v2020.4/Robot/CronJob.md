@@ -11,7 +11,6 @@ Click **New Cron Job** to open the Cron Job window, as shown in the following fi
 - Flow: Select Local flow library or Console flow library, and then select the flow and version to be executed in the cron job.
   
   > **Description:**
-  > 
   > You can click Execution Config to open the Execution Config dialog box and configure parameters for the flow execution. See [Executing Local Flows](Robot/../localworkflow.md).
 
 - Mode: select an execution mode. The optional modes are Once, By Day, By Week, By Month, and By Expression.
@@ -35,7 +34,7 @@ Click **New Cron Job** to open the Cron Job window, as shown in the following fi
 
 - End time: the time when the job expires. If you do not enter this field, the job never expires.
 
-![Cron job setting](https://docimages.blob.core.chinacloudapi.cn/images/Robot/cronjob20201201.png)
+![Cron job setting](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/cronjob20201201.png)
 
 ## Cron job list
 
@@ -47,4 +46,4 @@ Each job row in the cron job list contains:
 - Mode: the execution mode of the current cron job
 - Operation: Click **Edit** to modify the current cron job. Click **Delete** to remove the current cron job.
 
-![Cron job list](https://docimages.blob.core.chinacloudapi.cn/images/Robot/Robot-CronJob-1.png)
+![Cron job list](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/Robot-CronJob-1.png)

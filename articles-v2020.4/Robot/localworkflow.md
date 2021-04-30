@@ -23,7 +23,7 @@ A robot can execute only one flow at a time, and will proceed to the next flow o
 
 4. Click Execute. The confirmation dialog box is displayed.
    
-   ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/flowofexecution20201201.png)
+   ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/flowofexecution20201201.png)
 
 - Flow: Displays the name and version number of the flow to be executed.
 
@@ -44,14 +44,14 @@ A robot can execute only one flow at a time, and will proceed to the next flow o
 
 
 
-5. Click OK. The flow quickly gets ready and executes automatically. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/running20201230.png)
+5. Click OK. The flow quickly gets ready and executes automatically. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/running20201230.png)
 
 ### Executing Console Flow
 
 1. Open Flow Library
 2. Click Console Flow Library to obtain all flow packages from the flow library.
 3. You can enter a flow package name to search for the flow package you want to execute.
-4. Select the version you want to execute and click Execute. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/Robot-Process-Console-0.png)
+4. Select the version you want to execute and click Execute. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/Robot-Process-Console-0.png)
 
 ### Abort
 
@@ -67,18 +67,18 @@ A user can abort a running flow at any time.
 
 3. After **Abort** is clicked, the robot will forcibly abort the running flow, regardless of where the flow goes. The **abort** operation cannot be canceled or deleted. Please be careful.
    
-   ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/Robot-Process-Kill-0.png)
+   ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/Robot-Process-Kill-0.png)
 
 ### Viewing logs (including recorded flow execution videos)
 
 A user can view logs after the flow is executed.
 
 1. Open the local/console flow library and locate a flow that was executed.
-2. Click **Log** to open the log folder of this flow, including video files. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/Robot-Process-Log-0.png)
+2. Click **Log** to open the log folder of this flow, including video files. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/Robot-Process-Log-0.png)
 
 ### Deleting a Flow
 
 A user can delete a flow in the local flow library. To delete a flow in the console flow library, go to the console.
 
 1. Open the local flow library and select the flow to be deleted and its version number
-2. Click **Delete**. A dialog box appears to ask you to confirm your deletion operation. Click OK. This version of the flow is deleted. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robot-deleteflow-1.png)
+2. Click **Delete**. A dialog box appears to ask you to confirm your deletion operation. Click OK. This version of the flow is deleted. ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/robot-deleteflow-1.png)

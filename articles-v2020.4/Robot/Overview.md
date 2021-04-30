@@ -8,13 +8,13 @@ Once the robot is initially installed or upgraded successfully, go to the \[Over
 > 
 > When the robot is not activated, the flow library and cron job functions are not available.
 
-![Inactivated Robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/norobotUI20201211.png)
+![Inactivated Robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/norobotUI20201211.png)
 
 ## Overview page that is activated
 
 After the robot is activated successfully, go to the \[Overview] page, and the global data of the current robot is displayed on this page.
 
-![Activate Robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotUI20201211.png)
+![Activate Robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/English/robotUI20201211.png)
 
 - **How to develop an RPA flow**: When the number of flows in the flow library is 0, click on "How to develop an RPA flow?” Link to the course page to learn and create your first automation project.
 - **Cron Job**: Display the cron jobs that have been created. If there is no cron job, you can create a cron job by clicking the "Create" button.
