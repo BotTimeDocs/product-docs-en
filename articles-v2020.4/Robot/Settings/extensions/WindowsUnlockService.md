@@ -8,7 +8,7 @@ To resolve such issues, we provide a function that prevents screen lock to ensur
 
 ## Case Resolution
 
-Before the studio or robot runs the [Lock Screen](../../../Activities/System/Screen/WindowsLockActivity.md) or [Unlock](../../../Activities/System/Screen/WindowsUnlockActivity.md) activity, you shall install **Windows Screen Unlock Service** as **Administrator** to automate the software interface in Windows.
+Before the studio or robot runs the [Lock Screen](../../Activities/System/Screen/WindowsLockActivity.md) or [Unlock](../../Activities/System/Screen/WindowsUnlockActivity.md) activity, you shall install **Windows Screen Unlock Service** as **Administrator** to automate the software interface in Windows.
 
 1. **Install Windows Screen Unlock Service** </br>
    
@@ -19,19 +19,15 @@ Before the studio or robot runs the [Lock Screen](../../../Activities/System/Scr
    > - Entry for Windows Screen Unlock Service in the Studio: Start Homepage > Tools.
    > - Entry for Windows Screen Unlock Service in the Robot: Settings > Extension.
 
-2. **Lock screen**</br>
-   
-    Drag the Lock Screen activity to the position where screen lock is required in the flow. Then set the activity properties to replace the manual operation of pressing "Win+L" key and keep the flow running when the screen is locked.
+2. **Lock screen** </br> Drag the Lock Screen activity to the position where screen lock is required in the flow. Then set the activity properties to replace the manual operation of pressing "Win+L" key and keep the flow running when the screen is locked.
 
-3. **Unlock screen**</br>
-
-Drag the Unlock Screen activity to the position where screen unlock is required in the flow. Then set the activity properties to replace the manual operation of entering the username and password to unlock the computer screen automatically.
+3. **Unlock screen** </br> Drag the Unlock Screen activity to the position where screen unlock is required in the flow. Then set the activity properties to replace the manual operation of entering the username and password to unlock the computer screen automatically.
 
 ## FAQ
 
 1. **Which operating systems can support Windows Screen Unlock Service?** </br> The compatible operating systems include Windows 7, Windows 10, Windows Server 2008, Windows Server 2016, and Windows Server 2019.
 
-2. **How to uninstall Windows Screen Unlock Service?** </br> Step 1: Entry for uninstaller: [Uninstaller](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/EncooCredentialProviderUnInstall.bat "Windows Screen Unlock Service uninstallation completed"). </br> Step 2: Right click to run as administrator, and the successful uninstallation is as shown below. </br> ![](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/uninstall20201202.png)</br>
+2. **How to uninstall Windows Screen Unlock Service?** </br> Step 1: Entry for uninstaller: [Uninstaller](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/EncooCredentialProviderUnInstall.bat "Windows Screen Unlock Service uninstallation completed"). </br> Step 2: Right click to run as administrator, and the successful uninstallation is as shown below. </br> ![](https://docimages.blob.core.chinacloudapi.cn/images/Studio/Extensions/uninstall20201202.png) </br>
 
 3. **In Windows 10, the Username attribute in the Unlock Screen activity is invalid when I log in using an online email account.** </br> Enter the Username attribute in the Unlock Screen activity with the name of the folder that is created with the name of the online email account under the "C:\\Users" directory.
 
