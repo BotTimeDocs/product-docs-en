@@ -4,7 +4,7 @@
 
 The Robot Monitoring page allows you to view the status of your robot by today, the last 7 days, the last 30 days, or a custom time period, as shown in the figure below.
 
-![Robot Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/robotdashboard20201203.png)
+![Robot Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/EnV4Dashboard2.png)
 
 | No.| Parameter| Description
 |----------|----------|----------
