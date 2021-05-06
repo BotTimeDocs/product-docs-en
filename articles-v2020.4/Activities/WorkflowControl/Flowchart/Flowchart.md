@@ -19,6 +19,10 @@ Unlike sequences, the flowcharts present multiple branching logical operators, t
 
 ## Operation sample
 
-1. Drag the **Flowchart** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/flowchart-1.png)
+1. Drag the **Flowchart** activity into the project flow:
 
-2. Double-click to open it, and drag in other activities to the **Flowchart** activity. For example, drag in the **Confirm Message Box** activity, as shown in the following figure. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/flowchart-2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/flowchart20210506.png)
+
+2. Double-click to open it, and drag in other activities to the **Flowchart** activity. For example, drag in the **Confirm Message Box** activity, as shown in the following figure.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/flowchartconfirm20210506.png)

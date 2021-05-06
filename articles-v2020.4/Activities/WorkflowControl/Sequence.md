@@ -13,6 +13,10 @@ It enables you to create linear flows comprised of many activities, which are ex
 
 ## Operation sample
 
-1. Drag the **Sequence** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sequence-1.png)
+1. Drag the **Sequence** activity into the project flow:
 
-2. Double-click to open the activity and drag any other activities into the sequence container as shown below: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/sequence-2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/sequence20210506.png)
+
+2. Double-click to open the activity and drag any other activities into the sequence container as shown below:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/doubleclicksequence20210506.png)

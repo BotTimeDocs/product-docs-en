@@ -22,10 +22,18 @@ An activity which executes one of two branches, depending on whether a specified
 
 ## Operation sample
 
-1. Drag in the **Wait for Element to Appear** activity, specify the element, and add the output variable isTrue. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-1.png)
+1. Drag in the **Wait for Element to Appear** activity, specify the element, and add the output variable isTrue. 
 
-2. Drag in the **Flow Decision** activity and use the output variable isTrue from the previous step as the input condition. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-3.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/waitelementappear20210506.png)
 
-3. Drag in two **Write to Log** activities, attach them to the True and False ends of the decision activity respectively, and add a prompt as to whether the element appears. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-2.png)
+2. Drag in the **Flow Decision** activity and use the output variable isTrue from the previous step as the input condition.
 
-4. The web page for the element specified in step 1 remains open. Run the flow and view the prompt in the output window. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/decision-4.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/decision20210506.png)
+
+3. Drag in two **Write to Log** activities, attach them to the True and False ends of the decision activity respectively, and add a prompt as to whether the element appears.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/elementisornotappear20210506.png)
+
+4. The web page for the element specified in step 1 remains open. Run the flow and view the prompt in the output window.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/waitelementappearresult20210506.png)
