@@ -32,12 +32,22 @@ Open an Office Excel workbook and provide scope for Excel activity operations. A
 
 ## Operation sample
 
-1. Drag the **Open/New** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenExcel1.png)
+1. Drag the **Open/New** activity into the project flow:
 
-2. Double-click Open, and click **...** to select the local Excel file: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenExcel2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/excelopencreate20210506.png)
 
-3. Drag the **Read Cell** activity into the project flow, enter the sheet name, enter the cell name, and create a new variable "cellContent" of the type String to store the cell contents: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadCell1.png)
+2. Double-click Open, and click **...** to select the local Excel file: 
 
-4. Drag the **Write Cell** activity into the project flow, and enter the sheet name, cell name, and the variable to be written. "cellContent" is used here. That is, the contents of A1 are written to A2: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadCell2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/doubleclickopen20210506.png)
 
-5. Click Run. After the running is successful, open Excel to check if the contents of A1 have been written to A2: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadCell3.png)
+3. Drag the **Read Cell** activity into the project flow, enter the sheet name, enter the cell name, and create a new variable "cellContent" of the type String to store the cell contents:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/readcell20210506.png)
+
+4. Drag the **Write Cell** activity into the project flow, and enter the sheet name, cell name, and the variable to be written. "cellContent" is used here. That is, the contents of A1 are written to A2:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/writecella220210506.png)
+
+5. Click Run. After the running is successful, open Excel to check if the contents of A1 have been written to A2:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/runningresult20210506.png)
