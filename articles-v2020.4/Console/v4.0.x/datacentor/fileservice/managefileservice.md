@@ -4,19 +4,19 @@
 
 Folder Management is mainly used to create or delete various folders and subfolders. The files in File Service must be stored within a folder/subfolder.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileervice1.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fileservice20210506.png)
 
 ### New Directory
 
 Click the "New" button on the left side of the list to create a new folder, the "Name Box" of the new folder is automatically editable, enter the name and press Enter to save.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileservice2.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/newfolder20210506.png)
 
 ### New Subfolder
 
 Select a folder and click the corresponding "New Subfolder" button to add a new "Subfolder" under its structure.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileservice3.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/newsubfolder20210506.png)
 
 ### Delete Folder \& Subfolder
 
@@ -28,23 +28,25 @@ Select a folder and click the corresponding "Delete" button to delete the folder
 
 After selecting a folder, click the corresponding "Upload" button, select the files to be uploaded in the dialog box.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/uploadfile.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/upload20210506.png)
 
 ### File Uploading Process Management
 
 Display the uploading process of all files, mainly including three states: uploading fully successful, uploading partially successful and uploading fully failed.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/uploadstatus.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/fileuploadingprocess20210506.png)
 
 ### Download File
 
 Select a folder and click the corresponding "Delete" button to delete the folder after confirming again through the dialog box.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/downloadfile.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/download20210506.png)
 
 ### Delete File
 
-Select a folder and click the corresponding "Delete" button to delete the folder after confirming again through the dialog box. ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/deletefile.png)
+Select a folder and click the corresponding "Delete" button to delete the folder after confirming again through the dialog box. 
+
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/deletefile20210506.png)
 
 ## File Service Permission Management
 
@@ -54,7 +56,7 @@ File service permissions are configured according to level one folder. If a user
 
 Click the "Manage Permission" button in the operation options of level one folder to go to Permission Editing page. Click the "Save" button after the editing is completed.
 
-![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileauthority1.png)
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/permissionediting20210506.png)
 
 ### Creator Permission
 
@@ -67,16 +69,17 @@ Specify User Permission can assign different user permissions for different user
 1. Click the "Add" button, a dialog box will display a list of all users that can be added under the current tenant.
 
 2. Check the users you want to add and click the "OK" button.
-   
-    ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileauthority2.png)
+
+    ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/specifyuserpermission20210506.png)
 
 3. The added user has read-only permission by default. You can modify the permission of a specific user by selecting from the dropdown list.
-   
-    ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileauthority3.png)
+
+    ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/specificuser20210506.png)
 
 4. Click the "Remove" button in front of the user name to remove the corresponding user from the specified user list.
 
 ### Other Users Permission
 
 Other users refer to all other users under the current tenant except for the creator and the specified user list. They have no permissions by default, you can modify the permission by selecting from the dropdown list.
-    ![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/Console/Datacentor/fileauthority5.png)
+
+![fileservice](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/otheruserspermission20210506.png)

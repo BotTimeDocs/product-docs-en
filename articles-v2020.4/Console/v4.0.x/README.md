@@ -17,11 +17,11 @@
 
 The ENCOO RPA Console has the following modules.
 
-| No.| Function Module| Community Edition| Enterprise Edition (SaaS)----------|----------|----------|----------
+| No.| Function Module| Community Edition| Enterprise Edition (SaaS)
+----------|----------|----------|----------
 1| Dashboard| Not Support| Support 
 2| RPA Management| Partial Support| Support
 3| Application Management (ViCode)| Not Support| Support
 4| Document Understanding| Not Support| Support
 5| Data Center| Not Support| Support
 6| Global Management| Partial Support| Support
-

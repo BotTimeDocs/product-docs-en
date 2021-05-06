@@ -6,13 +6,15 @@ Job schedule is mainly used for users to freely configure job execution schedule
 
 Click the "Job Schedule" button of a flow deployment to toggle through all the job schedules under that flow deployment name.
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow10.png)
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/viewjobschedulelist20210506.png)
 
 ## New Job Plan
 
 **Step 1, fill in the job schedule details configuration**
 
-1\) Basic information: Cron Job name, flow deployment name, flow package name \& version number. ![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow11.png)
+1\) Basic information: Cron Job name, flow deployment name, flow package name \& version number.
+
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/newjob20210506.png)
 
 2\) Schedule time (timed execution time of jobs):
 - By minute
@@ -22,7 +24,7 @@ Click the "Job Schedule" button of a flow deployment to toggle through all the j
 - By month
 - By cron expression
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow12.png)
+<!--![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow12.png)-->
 
 For the cron jobs that are executed by cron expressions, if you know cron expressions, you can write them by yourself according to the rules, or generate them through the cron expression generation website provided by ENCOO.
 
