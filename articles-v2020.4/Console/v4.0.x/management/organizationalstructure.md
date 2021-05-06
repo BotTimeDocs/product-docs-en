@@ -14,7 +14,7 @@ Create a department for the created company.
 
 1. In **Global Management > Organizational Structure Management** of the ENCOO RPA console, click "+" to create a department.
    
-    ![Creating Department](https://docimages.blob.core.chinacloudapi.cn/images/Console/createdepartment20210329.png)
+    ![Creating Department](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user1.png)
 
 2. Click the "OK" button to confirm the creation of a department or sub-department.
 
@@ -24,17 +24,17 @@ Invite users for the created department.
 
 1. In "User Management" tab, click "**+Invite User**" to add user information for the selected department.
    
-   ![Add User](https://docimages.blob.core.chinacloudapi.cn/images/Console/saveuser20210329.png)
+   ![Add User](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user2.png)
 
 2. (Optional) Click the "**Add and Continue Adding**" button to save the added user and continue adding a new user.
 
 3. Click the "**Save**" button. You can view information about added users on the user information list page.
    
-   ![User Information List](https://docimages.blob.core.chinacloudapi.cn/images/Console/userlist20210329.png)
+   ![User Information List](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user4.png)
 
 4. (Optional) To view, change, or delete an added user, click the corresponding option in the "Action" bar.
    
-   ![Available Actions for Added Users](https://docimages.blob.core.chinacloudapi.cn/images/Console/userlistoptional20210329.png)
+   ![Available Actions for Added Users](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user5.png)
    
    - **View**: View information about added users and edit the relevant information of "User Name" and "Remarks".
    
@@ -64,7 +64,7 @@ The "**Data Permission Config**” tab is mainly used for configuring the data p
 
 1. To configure department data permissions, click the "Edit" button in the upper right corner of the page.
    
-   ![Configuring Department Data Permissions](https://docimages.blob.core.chinacloudapi.cn/images/Console/settingdatagrant20210329.png)
+   ![Configuring Department Data Permissions](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user6.png)
    
    - **Department Configuration Information**
      - Owner: By default, it is the creator of the current department and can be changed.
@@ -73,6 +73,9 @@ The "**Data Permission Config**” tab is mainly used for configuring the data p
    - **Data Permission Mode**:
      - Whether to inherit superior permission: If you choose "Inherit Superior Permission", the system will calculate the final permission according to the custom permission and the inherited superior permission.
      - User Permission: Configures user access to resources in the department.
+
+     ![Menu Function Permissions](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user10.png)
+       
      - Robot Permission: Configures user access to the specified robot in the department.
      - API Key access: Configures API KEY access to resources to control access to URLs that use the API KEY.
 
@@ -84,7 +87,7 @@ Enables the specified menu function permissions for the selected department.
 
 1. To configure department menu function permissions, click the "Edit" button in the upper right corner of the page.
    
-    ![Menu Function Permissions](https://docimages.blob.core.chinacloudapi.cn/images/Console/menufunction20210329.png)
+    ![Menu Function Permissions](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4user13.png)
 
 2. Click the "Save" button to save the configured department menu function permissions.
 

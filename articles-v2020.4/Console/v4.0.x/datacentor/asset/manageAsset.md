@@ -4,7 +4,7 @@
 
 Go to "Data Center > Asset Management" page, and you can view all the assets under the current resource group through the list.
 
-![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/Asset/V3assettable.png)
+![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4asset1.png)
 
 ## New Asset
 
@@ -18,19 +18,19 @@ Click the "New" button, fill in relevant information such as asset name, asset t
 
 For example, when creating a new account password credential, we shall fill in the asset name, account, password, and other information and click "Save". By default, the account password credential will be encrypted for storage in the system.
 
-![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/Asset/V3creatasset.png)
+![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4asset2.png)
 
 ## View Asset Details
 
 Click on the name of the asset or select the "View" button to view asset details.
 
-![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/Asset/V3viewasset.png)
+![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4asset3.png)
 
 ## Edit Asset Information
 
 Click the "Edit" button in the User Details dialog box to change the user information, and click "Save" after you complete the change.
 
-![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/Asset/V3editasset.png)
+![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4asset4.png)
 
 > **Description:**
 > 
@@ -40,4 +40,4 @@ Click the "Edit" button in the User Details dialog box to change the user inform
 
 Click the "Delete" button in the "Actions" option to delete the corresponding asset.
 
-![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/Asset/V3deleteasset.png)
+![Asset](https://docimages.blob.core.chinacloudapi.cn/images/Console/ConsoleAdmin/EnV4asset5.png)

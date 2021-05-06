@@ -4,7 +4,7 @@
 
 This page is mainly used to display the work of all users under the current department, such as the number of flow deployments created, the number of job schedules created, and the running status of the corresponding jobs. By default, it displays the data of the last 7 days, and you can freely filter the robot operation data within the specific time period.
 
-![dashboard](https://docimages.blob.core.chinacloudapi.cn/images/Console/%E4%BB%AA%E8%A1%A8%E7%9B%98/dashboardnew3.png)
+![dashboard](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/EnV4Dashboard6.png)
 
 - **Chart display**:
 

@@ -18,7 +18,7 @@ The queue monitoring page allows you to statistically monitor the operation and 
 
 - **Queue failure ratio TOP 10:** Count the distribution of all failed flow jobs in the queue for all scheduling queues under the current department in the selected time range.
 
-![Queue Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/%E4%BB%AA%E8%A1%A8%E7%9B%98/queuedashboard1.png)
+![Queue Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/EnV4Dashboard3.png)
 
 - **Scheduling queue job distribution:** Count the distribution of all jobs in the scheduling queue under the current department in the selected time range.
 
@@ -26,4 +26,4 @@ The queue monitoring page allows you to statistically monitor the operation and 
 
 - **TOP10 average waiting time of scheduling queue job:** Count the TOP10 average waiting time of all scheduling queues under the current department in the selected time range.
 
-![Queue Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/%E4%BB%AA%E8%A1%A8%E7%9B%98/queuedashboard2.png)
+![Queue Monitoring](https://docimages.blob.core.chinacloudapi.cn/images/Console/Dashboard/EnV4Dashboard4.png)
