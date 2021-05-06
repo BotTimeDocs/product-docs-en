@@ -17,10 +17,18 @@ It determines the next step of execution depending on whether the specified cond
 
 ## Operation sample
 
-1. Drag in the **Get Structured Data** activity, specify the table element on the web (for example, [a stock website](http://stockpage.10jqka.com.cn/1A0001/#refCountId=stockpage_5c3e9aef_93)), and set the output variable. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-1.png)
+1. Drag in the **Get Structured Data** activity, specify the table element on the web (for example, [a stock website](http://stockpage.10jqka.com.cn/1A0001/#refCountId=stockpage_5c3e9aef_93)), and set the output variable. 
 
-2. Drag in the \*\*if\*\* activity and set the judgment condition dt.Rows.Count == 10 (to check if the data table has 10 rows of data). ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/getstructureddata20210506.png)
 
-3. Double-click on the **if** activity, drag in two **Write to Log** activities to the if container, and write them into different log texts according to the True/False judgment conditions, respectively. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-3.png)
+2. Drag in the **if** activity and set the judgment condition dt.Rows.Count == 10 (to check if the data table has 10 rows of data). 
 
-4. Click Run Flow and view the run results. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/if-4.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/ifactivity20210506.png)
+
+3. Double-click on the **if** activity, drag in two **Write to Log** activities to the if container, and write them into different log texts according to the True/False judgment conditions, respectively.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/ifactivitywritetolog20210506.png)
+
+4. Click Run Flow and view the run results.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/stockwebsiterunresult20210506.png)

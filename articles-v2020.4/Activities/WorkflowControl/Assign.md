@@ -18,8 +18,14 @@ Assign a value to a specified variable
 
 ## Operation sample
 
-1. Drag in the **Do While** activity and create a variable count. The data type is set as Int32, and the default value is 1, and the loop condition count \<= 3 is added, as shown below. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-1.png)
+1. Drag in the **Do While** activity and create a variable count. The data type is set as Int32, and the default value is 1, and the loop condition count \<= 3 is added, as shown below.
 
-2. Double-click to open the activity and drag the **Assignment** activity to the Do While container. Set the count to increment, such as count = count + 1: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/dowhile20210506.png)
 
-3. Drag in the **Write to Log** activity and enter the printing content: "Loop count: “+ count.ToString(). Click Run Flow to view the output log: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/dowhile-3.png)
+2. Double-click to open the activity and drag the **Assignment** activity to the Do While container. Set the count to increment, such as count = count + 1:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/assign20210506.png)
+
+1. Drag in the **Write to Log** activity and enter the printing content: "Loop count: “+ count.ToString(). Click Run Flow to view the output log:
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/loopcount20210506.png)
