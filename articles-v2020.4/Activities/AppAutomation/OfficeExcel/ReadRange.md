@@ -28,12 +28,22 @@ Get the cell range data in the workbook and store it in the data table variable.
 
 ## Operation sample
 
-1. Drag the **Open/New** activity into the project flow: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenExcel1.png)
+1. Drag the **Open/New** activity into the project flow:
 
-2. Double-click Open, and click **...** to select the local Excel file: ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/OpenExcel2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/excelopencreate20210506.png)
 
-3. Drag the **Read Range** activity to the project flow and fill in the sheet name "sheet1". Fill in the read range "A1:D3" and create a new variable "datatable" of type datatable", which is used to store the contents of all cells in the region. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadRange1.png)
+2. Double-click Open, and click **...** to select the local Excel file:
 
-4. Drag the **Write Range** activity into the project flow, fill in the sheet name "sheet2", and fill in the write range "A1:D3". Fill in the variables to be written, and here "datatable" is used. That is, the contents of "A1: D3" in "sheet1" are written into "A1: D3" in "sheet2". ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadRange2.png)
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/doubleclickopen20210506.png)
 
-5. Click Run. After the running is successful, Open Excel to see that the contents of the "A1:D3" in the range of sheet1 have been written into "A1:D3" in sheet2. ![](https://docimages.blob.core.chinacloudapi.cn/images/Activities/ReadRange3.png)
+3. Drag the **Read Range** activity to the project flow and fill in the sheet name "sheet1". Fill in the read range "A1:D3" and create a new variable "datatable" of type datatable", which is used to store the contents of all cells in the region. 
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/dragthereadrange20210506.png)
+
+4. Drag the **Write Range** activity into the project flow, fill in the sheet name "sheet2", and fill in the write range "A1:D3". Fill in the variables to be written, and here "datatable" is used. That is, the contents of "A1: D3" in "sheet1" are written into "A1: D3" in "sheet2".
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/dragwriterange20210506.png)
+
+5. Click Run. After the running is successful, Open Excel to see that the contents of the "A1:D3" in the range of sheet1 have been written into "A1:D3" in sheet2.
+
+    ![](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/runresult20210506.png)
