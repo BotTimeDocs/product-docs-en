@@ -24,4 +24,3 @@ As the help guide for ENCOO RPA, in this document, we will mainly introduce how 
 - [ENCOO Activity Library Document](/articles-v2020.4/Activities/README.md)
 - [ENCOO RPA Robot Document](/articles-v2020.4/Robot/aboutRobot.md)
 - [ENCOO RPA Console Document](/articles-v2020.4/Console/v4.0.x/README.md)
-- [ENCOO ViCode Document](/articles-v2020.4/Apps/v4.0.x/README.md)
