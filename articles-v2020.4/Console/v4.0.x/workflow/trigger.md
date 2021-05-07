@@ -34,7 +34,9 @@ For the cron jobs that are executed by cron expressions, if you know cron expres
 
 2\) Argument information: Display the argument values in the current flow package, if the flow deployment has modified an argument value then the latest value will be displayed here. At this point, reassignment can be done by manually filling in or importing asset.
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow13.png) After the cron job is filled in, click "Save", the cron job will be started or deactivated automatically at the set start/deactivation time.
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/target20210507.png)
+
+After the cron job is filled in, click "Save", the cron job will be started or deactivated automatically at the set start/deactivation time.
 
 > **Description:**
 > 
@@ -45,16 +47,16 @@ For the cron jobs that are executed by cron expressions, if you know cron expres
 
 Click the "View" button of a job schedule to view the details of the corresponding job schedule. Click the "Edit" button to start editing the job schedule, and click the "Save" button when you completed.
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow14.png)
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/viewandeditjob20210507.png)
 
 ## View Job Schedule Log
 
 Click the "View Log" button in the operation options of a job schedule to view the enabled, disabled, and created jobs of the job schedule for easy tracking of the job schedule.
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow15.png)
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/viewjobschedulelog20210507.png)
 
 ## Enable/Disable Job Schedule
 
 You can enable/disable the current job schedule by clicking the Enable/Disable button in the "Operation" option in the job schedule list.
 
-![trigger](https://docimages.blob.core.chinacloudapi.cn/images/Console/process/V3workflow16.png)
+![trigger](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/enablejobschedule20210507.png)

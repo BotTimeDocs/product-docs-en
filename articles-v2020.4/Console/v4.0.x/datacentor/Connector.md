@@ -12,7 +12,7 @@ Log in to the Enterprise Edition console as an administrator.
 
 2. In the pop-up "New Connection" dialog box, select "MySQL" and click the "Next" button.
    
-   ![Create a new MySQL data connection](https://docimages.blob.core.chinacloudapi.cn/images/Console/createconnector20210329.png)
+   ![Create a new MySQL data connection](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/mysql20210507.png)
 
 3. In the "Configure Connection" pop-up box, configure the MySQL connection.
    
@@ -23,11 +23,11 @@ Log in to the Enterprise Edition console as an administrator.
    
     a. Connect via Configuration
    
-    ![Connect via configuration](https://docimages.blob.core.chinacloudapi.cn/images/Console/connectionbysetting20210329.png)
+    ![Connect via configuration](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/connectviaconfiguration20210507.png)
    
     b. Connect via Connection String
     
-    ![Configure MySQL Connection](https://docimages.blob.core.chinacloudapi.cn/images/Console/settingmysqlconnect20210329.png)
+    ![Configure MySQL Connection](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/connectviaconnectionstring20210507.png)
 
 4. (Optional) Click the "Test" button to test whether the data connection is successful.
 
@@ -39,17 +39,17 @@ Log in to the Enterprise Edition console as an administrator.
 
 2. In the pop-up "New Connection" dialog box, select "Restful API" and click the "Next" button.
    
-    ![Create a new Restful API data connection](https://docimages.blob.core.chinacloudapi.cn/images/Console/createrestfulapi20210329.png)
+    ![Create a new Restful API data connection](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/restfulapi20210507.png)
 
 3. In the "Configure Connection" pop-up box, configure the Restful API connection.
-   
+
    - **Connection name**: You can customize the name of the newly created Restful API connection.
    - **Environment type**: You can drop down to select production environment or test environment.
    - **Base URL address**: Fill in the base URL location address.
    - **Headers**: Fill in the key and value of the headers.
    - **Parameters**: Fill in the key and value of the parameters.
-   
-    ![Configure Manage Database](https://docimages.blob.core.chinacloudapi.cn/images/Console/settingrestfulapi20210329.png)
+
+    ![Configure Manage Database](https://docimages.blob.core.chinacloudapi.cn/images/EnglishDocumentImage/configureconnection20210507.png)
 
 4. Click the "New" button to complete the Restful API data connection.
 
