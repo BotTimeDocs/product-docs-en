@@ -1,5 +1,10 @@
 [
   {
+    "id": null,
+    "name": "README.md",
+    "localizedName": "Overview"
+  },
+  {
     "name": "Studio",
     "localizedName": "ENCOO RPA Studio"
   },
