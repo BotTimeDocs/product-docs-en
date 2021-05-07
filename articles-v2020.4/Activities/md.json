@@ -28,16 +28,6 @@
   },
   {
     "id": null,
-    "name": "Check",
-    "localizedName": "Check"
-  },
-  {
-    "id": null,
-    "name": "Database",
-    "localizedName": "Database"
-  },
-  {
-    "id": null,
     "name": "DataTable",
     "localizedName": "Data Table"
   },
@@ -45,35 +35,5 @@
     "id": null,
     "name": "WorkflowControl",
     "localizedName": "Flow Control"
-  },
-  {
-    "id": null,
-    "name": "AIHub",
-    "localizedName": "AI Hub"
-  },
-  {
-    "id": null,
-    "name": "PhoneAutomation",
-    "localizedName": "Mobile Automation"
-  },
-  {
-    "id": null,
-    "name": "Console",
-    "localizedName": "Console"
-  },
-  {
-    "id": null,
-    "name": "Resource",
-    "localizedName": "Resources"
-  },
-  {
-    "id": null,
-    "name": "Triggers",
-    "localizedName": "Trigger"
-  },
-  {
-    "id": null,
-    "name": "Appendix",
-    "localizedName": "Appendix"
   }
 ]

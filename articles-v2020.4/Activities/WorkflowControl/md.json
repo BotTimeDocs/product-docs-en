@@ -6,18 +6,8 @@
   },
   {
     "id": null,
-    "name": "StateMachine",
-    "localizedName": "State Machine"
-  },
-  {
-    "id": null,
     "name": "Determine",
     "localizedName": "Judge"
-  },
-  {
-    "id": null,
-    "name": "Loop",
-    "localizedName": "Loop"
   },
   {
     "id": "System.Activities.Statements.Sequence",
@@ -25,13 +15,6 @@
     "localizedName": "Sequence",
     "uuid": "bb60c573-1c45-4304-adfe-fa700fc92210",
     "labels": "序列"
-  },
-  {
-    "id": "BotTime.Flow.Activities.Parallel",
-    "name": "Parallel.md",
-    "localizedName": "Parallel",
-    "uuid": "7b1d8e9c-1b38-4017-a25d-f369deb644bf",
-    "labels": "并行"
   },
   {
     "id": "BotTime.Flow.Activities.TryCatch",
@@ -46,61 +29,5 @@
     "localizedName": "Assign",
     "uuid": "f3357989-015c-4a1b-8087-d1fd90a8511b",
     "labels": "赋值"
-  },
-  {
-    "id": "BotTime.Flow.Activities.MultipleAssign",
-    "name": "MultipleAssign.md",
-    "localizedName": "Assignment (Multiple)",
-    "uuid": "216356ac-79a8-4d9c-8907-b5bd24c36a07",
-    "labels": "赋值, 多个"
-  },
-  {
-    "id": "BotTime.Flow.Activities.Delay",
-    "name": "Delay.md",
-    "localizedName": "Delay",
-    "uuid": "74e120e9-1212-4a2b-a134-04644553afec",
-    "labels": "延迟"
-  },
-  {
-    "id": "BotTime.Flow.Activities.Retry",
-    "name": "Retry.md",
-    "localizedName": "Retry",
-    "uuid": "3a5ca6b3-47d9-4e27-b4a0-91abe47b59bb",
-    "labels": "重试"
-  },
-  {
-    "id": "BotTime.Flow.Activities.Throw",
-    "name": "Throw.md",
-    "localizedName": "Throw Exception",
-    "uuid": "5e7a2f51-28b7-4675-84d2-ef9fff67fdb5",
-    "labels": "异常, 抛出"
-  },
-  {
-    "id": "BotTime.Flow.Activities.ReThrow",
-    "name": "ReThrow.md",
-    "localizedName": "Rethrow Exception",
-    "uuid": "e148fedd-8ad2-4db2-ac54-c76a1e15cfa7",
-    "labels": "重新, 异常, 抛出"
-  },
-  {
-    "id": "BotTime.Flow.Activities.InvokeWorkflow",
-    "name": "InvokeWorkflow.md",
-    "localizedName": "Call Subflow",
-    "uuid": "979ab9aa-e5ae-4663-a5af-b8b7c5be7579",
-    "labels": "调用, 流程"
-  },
-  {
-    "id": "BotTime.Flow.Activities.InvokeReferencedWorkflowActivity",
-    "name": "InvokeReferencedWorkflow.md",
-    "localizedName": "Call Flow (Reference Project)",
-    "uuid": "15783178-2ce7-440d-b4ad-49b3827cbfab",
-    "labels": "项目, 引用, 调用, 流程"
-  },
-  {
-    "id": "BotTime.Flow.Activities.Abort",
-    "name": "Abort.md",
-    "localizedName": "Abort",
-    "uuid": "a6d5ad8f-9317-4be4-9c97-b77b919b6af0",
-    "labels": "终止, 流程"
   }
 ]
