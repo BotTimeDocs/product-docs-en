@@ -1,11 +1,5 @@
 [
   {
-    "name": "README.md",
-    "localizedName": "Overview",
-    "uuid": "dd2b79a8-5dc9-46ff-b2f6-06da49a4db0f",
-    "labels": "RPA, 平台, 云扩"
-  },
-  {
     "name": "Studio",
     "localizedName": "ENCOO RPA Studio"
   },
