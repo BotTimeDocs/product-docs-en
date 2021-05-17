@@ -3,5 +3,60 @@
     "id": null,
     "name": "CSharp",
     "localizedName": "C#"
+  },
+  {
+      "id": null,
+      "name": "Python",
+      "localizedName": "Python"
+  },    
+  {
+      "id": null,
+      "name": "JavaScript",
+      "localizedName": "JavaScript"
+  },
+  {
+      "id": null,
+      "name": "PowerShell",
+      "localizedName": "PowerShell"
+  },
+  {
+      "id": null,
+      "name": "HTTP",
+      "localizedName": "HTTP"
+  },
+  {
+      "id": null,
+      "name": "JSON",
+      "localizedName": "JSON"
+  },
+  {
+      "id": null,
+      "name": "TextProcessing",
+      "localizedName": "text"
+  },
+  {
+      "id": null,
+      "name": "CollectionProcessing",
+      "localizedName": "Collection"
+  },
+  {
+      "id": null,
+      "name": "ArrayProcessing",
+      "localizedName": "array"
+  },
+  {
+      "id": null,
+      "name": "Dictionary",
+      "localizedName": "dictionary"
+  },
+  {
+      "id": null,
+      "name": "DataProcessing",
+      "localizedName": "format"
+  },
+  {
+      "id": null,
+      "name": "TypeConversion",
+      "localizedName": "Type conversions"
   }
 ]
