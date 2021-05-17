@@ -1,0 +1,16 @@
+[
+    {
+        "id": "BotTime.ActivityLibrary.Activities.Assert.ValueCheckActivity",
+        "name": "ValueCheck.md",
+        "localizedName": "Value check",
+        "uuid": "734e82d5-1ccd-4df3-a255-e4482d35b230",
+        "labels": "校验, 值, 判断"
+    },
+    {
+        "id": "Encootech.AutomationActivity.PropertyCheckActivity",
+        "name": "AttributeCheck.md",
+        "localizedName": "Attribute check",
+        "uuid": "74f8deb5-0a0b-4cfd-ad26-5ddfefdcdd89",
+        "labels": "属性, 校验, 判断"
+    }
+]
