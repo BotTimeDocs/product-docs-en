@@ -1,0 +1,128 @@
+[
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileConnectActivity",
+        "name": "MobileConnect.md",
+        "localizedName": "Connect the device",
+        "uuid": "788fb5aa-7457-4158-a090-426134bae5d2",
+        "labels": "连接, 设备, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileStartAppActivity",
+        "name": "MobileStartApp.md",
+        "localizedName": "Open the application software",
+        "uuid": "286eb7c6-4f33-4bea-8746-63bcff6b71b4",
+        "labels": "打开, 应用软件, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileStopAppActivity",
+        "name": "MobileStopApp.md",
+        "localizedName": "Close application software",
+        "uuid": "77557ace-2811-4a9f-bd89-60f321cc6eb4",
+        "labels": "关闭, 应用软件, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileTapActivity",
+        "name": "MobileTap.md",
+        "localizedName": "Click on",
+        "uuid": "d9cff8d1-5d8a-4c6f-8048-2e572705f976",
+        "labels": "点击, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileLongPressActivity",
+        "name": "MobileLongPress.md",
+        "localizedName": "Long press the screen",
+        "uuid": "dcf48e64-76b5-4b3b-b26d-c1e1e55dea9a",
+        "labels": "屏幕, 移动端, 长按"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileSwipeActivity",
+        "name": "MobileSwipe.md",
+        "localizedName": "Swipe screen",
+        "uuid": "f22151c2-662f-4dd0-8613-421c2c65ea73",
+        "labels": "滑动, 屏幕, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileCropActivity",
+        "name": "MobileCrop.md",
+        "localizedName": "Screenshot",
+        "uuid": "6edd8f91-e7e1-4b46-bead-71a857e93930",
+        "labels": "截屏, 截图, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileGetClipboardTextActivity",
+        "name": "MobileGetClipboardText.md",
+        "localizedName": "Get clipboard text",
+        "uuid": "37d3e974-f4c5-4031-9486-fd83f912d694",
+        "labels": "获取, 剪贴板文本, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileSetClipboardTextActivity",
+        "name": "MobileSetClipboardText.md",
+        "localizedName": "Set clipboard text",
+        "uuid": "cbb0b4e5-ff68-4186-98ae-e04fc319be2c",
+        "labels": "设置, 剪贴板文本, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileSendTextActivity",
+        "name": "MobileSendText.md",
+        "localizedName": "Send text",
+        "uuid": "c32dfabf-65e1-49f6-a447-897da1a96134",
+        "labels": "文本, 发送, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileGetTextActivity",
+        "name": "MobileGetText.md",
+        "localizedName": "Get text",
+        "uuid": "008ff794-d307-43d7-80c1-5d9ba6375398",
+        "labels": "获取, 文本, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileStructureDataActivity",
+        "name": "MobileStructureData.md",
+        "localizedName": "Get structured data",
+        "uuid": "64b3d6c1-867d-4294-a9a7-e3e7ea51f3ae",
+        "labels": "获取, 结构化, 数据， 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileGetAttributeActivity",
+        "name": "MobileGetAttribute.md",
+        "localizedName": "Get element attribute value",
+        "uuid": "d354acde-3f48-4101-8c0c-f3cad616f9c5",
+        "labels": "属性, 获取, 元素, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileGetSmsCodeActivity",
+        "name": "MobileGetSmsCode.md",
+        "localizedName": "obtain SMS verification code",
+        "uuid": "80e84ae7-d820-4493-bbfb-1bdb21efe7b8",
+        "labels": "获取短信验证码"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileClearElementInputActivity",
+        "name": "MobileClearElementInput.md",
+        "localizedName": "Clear text",
+        "uuid": "22567fe7-f39f-4cf4-aed9-34c56204d0e7",
+        "labels": "文本, 清空, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileHomeActivity",
+        "name": "MobileHome.md",
+        "localizedName": "return to home page",
+        "uuid": "1aa0c400-6c49-4655-8ae8-8d77b9869a0a",
+        "labels": "主页, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileWaitElementAppearActivity",
+        "name": "MobileWaitElementAppear.md",
+        "localizedName": "Wait for the element to appear",
+        "uuid": "10049341-62d2-4715-9c9e-298caf00c67b",
+        "labels": "等待, 出现, 元素, 移动端"
+    },
+    {
+        "id": "Encoo.Automation.MobileActivity.Activities.MobileWaitElementVanishActivity",
+        "name": "MobileWaitElementVanish.md",
+        "localizedName": "Wait for the element to disappear",
+        "uuid": "022305d1-6c31-4350-ac45-3e6e3ca4dc07",
+        "labels": "等待, 消失, 元素, 移动端"
+    }
+]
