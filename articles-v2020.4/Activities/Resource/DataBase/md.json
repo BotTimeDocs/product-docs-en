@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Encoo.Resource.Activity.Activities.CreateTableActivity",
+        "name": "createtable.md",
+        "localizedName": "Create table",
+        "uuid": "b8a2f2e2-e353-48df-8d59-1b505306f7df",
+        "labels": "创建, 表"
+    },
+    {
+        "id": "Encoo.Resource.Activity.Activities.DeleteTableActivity",
+        "name": "deletetable.md",
+        "localizedName": "Delete table",
+        "uuid": "2c7add04-c51f-4bfe-8166-edc3e360b195",
+        "labels": "删除, 表"
+    },
+    {
+        "id": "Encoo.Resource.Activity.Activities.DataBase.ExecuteSqlActivity",
+        "name": "executesql.md",
+        "localizedName": "Execute statement",
+        "uuid": "d973f655-ddda-4071-b12d-ca63e898c463",
+        "labels": "执行, SQL, 语句"
+    },
+    {
+        "id": "Encoo.Resource.Activity.Activities.DataBase.DataTableUpdatedActivity",
+        "name": "datatableupdated.md",
+        "localizedName": "Update table",
+        "uuid": "37cac1a7-0999-4cf5-a198-e8adf2ce507e",
+        "labels": "更新, 表"
+    },
+    {
+        "id": "Encoo.Resource.Activity.Activities.DataBase.DataTableQueryActivity",
+        "name": "datatablequery.md",
+        "localizedName": "Inquire",
+        "uuid": "71ba904a-fd14-4b93-8202-25acd5d47c3b",
+        "labels": "查询, 数据表"
+    },
+    {
+        "id": "Encoo.Resource.Activity.Activities.DataBase.EmptyDataBaseActivity",
+        "name": "emptydatabase.md",
+        "localizedName": "Clear all data tables",
+        "uuid": "d0b5ec35-fc55-4690-9d3e-39fb10163737",
+        "labels": "清空, 全部, 数据表"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": "Encootech.AutomationActivity.OcrActivity.GetOcrText",
+        "name": "GetOCRText.md",
+        "localizedName": "Get OCR text",
+        "uuid": "6e902991-3f05-4e06-a3f3-f9356db0645a",
+        "labels": "OCR, 获取, 文本"
+    },
+    {
+        "id": "Encootech.AutomationActivity.OcrActivity.GetOcrElement",
+        "name": "GetSpecificTextOCRElement.md",
+        "localizedName": "Get elements with OCR text",
+        "uuid": "1fa00039-bfea-4c6e-b9b6-e4b630289177",
+        "labels": "OCR, 获取, 文本, 元素"
+    },
+    {
+        "id": "Encootech.AutomationActivity.OcrActivity.DetectOcrText",
+        "name": "IdentifyOCRTextExist.md",
+        "localizedName": "Determine whether the OCR text exists",
+        "uuid": "a26fc6bd-01fb-4278-a41b-2e4f21adf398",
+        "labels": "文本, OCR, 存在, 判断"
+    }
+]
