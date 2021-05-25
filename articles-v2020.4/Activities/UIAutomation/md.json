@@ -9,28 +9,28 @@
   {
       "id": "Encootech.AutomationActivity.ClickScreenPointActivity",
       "name": "Coordinate.md",
-      "localizedName": "Coordinate click",
+      "localizedName": "Coordinate Click",
       "uuid": "1071c33c-636f-4e49-bb9d-dcaa6437529d",
       "labels": "坐标, 点击"
   },
   {
       "id": "Encootech.AutomationActivity.MouseMoveActivity",
       "name": "MoveMouse.md",
-      "localizedName": "Move the mouse",
+      "localizedName": "Move the Mouse",
       "uuid": "4a035cc6-9d2e-4056-ab0f-30be0ba8015f",
       "labels": "鼠标, 移动"
   },
   {
       "id": "Encootech.AutomationActivity.GetMousePointActivity",
       "name": "GetMousePosition.md",
-      "localizedName": "Get mouse position",
+      "localizedName": "Get Mouse Position",
       "uuid": "1f332002-9624-49ae-b64a-126ee3476045",
       "labels": "获取, 鼠标, 位置"
   },
   {
       "id": "Encootech.AutomationActivity.DragDropActivity",
       "name": "DragDrop.md",
-      "localizedName": "Mouse drag",
+      "localizedName": "Mouse Drag",
       "uuid": "40264f26-9432-44c9-83cc-0bfcdaad9d19",
       "labels": "拖动, 鼠标"
   },
@@ -51,28 +51,28 @@
   {
       "id": "Encootech.AutomationActivity.SetTextActivity",
       "name": "TypeInto.md",
-      "localizedName": "Input text",
+      "localizedName": "Input Text",
       "uuid": "6f8ef618-c9ba-4c03-afc9-1f397282c4e7",
       "labels": "输入, 文本"
   },
   {
       "id": "Encootech.AutomationActivity.SendHotKeyActivity",
       "name": "SendHotkey.md",
-      "localizedName": "Send shortcut",
+      "localizedName": "Send Shortcut",
       "uuid": "c0f37191-286f-4517-98f2-f5b820ce85eb",
       "labels": "快捷键, 发送"
   },
   {
       "id": "Encootech.AutomationActivity.GetTextActivity",
       "name": "GetText.md",
-      "localizedName": "Get text",
+      "localizedName": "Get Text",
       "uuid": "5214f089-3dd9-4222-991f-9abf9c4887c5",
       "labels": "获取, 文本"
   },
   {
       "id": "Encootech.AutomationActivity.GetStructuredDataActivity",
       "name": "ExtractStructuredData.md",
-      "localizedName": "Get structured data",
+      "localizedName": "Get Structured data",
       "uuid": "4585a5ec-7386-4438-a083-dc345e6e94f7",
       "labels": "获取结构化数据"
   },
@@ -121,14 +121,14 @@
   {
       "id": "Encootech.AutomationActivity.SelectItemActivity",
       "name": "SelectItem.md",
-      "localizedName": "Select item",
+      "localizedName": "Select Item",
       "uuid": "089bcf7f-b628-4421-980d-b52b3b9bf17f",
       "labels": "选择, 项目"
   },
   {
       "id": "Encootech.AutomationActivity.SelectMultipleItemActivity",
       "name": "SelectMultipleItems.md",
-      "localizedName": "Select multiple items",
+      "localizedName": "Select Multiple Items",
       "uuid": "06e49c23-671a-418c-b468-9f469961e3e3",
       "labels": "选择, 项目, 多个"
   },
@@ -149,21 +149,21 @@
   {
       "id": "Encootech.AutomationActivity.SetFocusActivity",
       "name": "SetFocus.md",
-      "localizedName": "Set focus",
+      "localizedName": "Set Focus",
       "uuid": "3FC7C597-50B6-4605-951D-A85C9D8226D6",
       "labels": "设置, 焦点"
   },
   {
       "id": "Encootech.AutomationActivity.MatchImageActivity",
       "name": "MatchImage.md",
-      "localizedName": "Match picture",
+      "localizedName": "Match Picture",
       "uuid": "9038B986-B35A-47A3-BF7D-A3DB2BFA4613",
       "labels": "图片, 匹配"
   },
   {
       "id": null,
       "name": "Window",
-      "localizedName": "window"
+      "localizedName": "Window"
   },
   {
       "id": null,
@@ -183,6 +183,6 @@
   {
       "id": null,
       "name": "ScreenText",
-      "localizedName": "Screen text (desktop)"
+      "localizedName": "Screen Text (desktop)"
   }
 ]

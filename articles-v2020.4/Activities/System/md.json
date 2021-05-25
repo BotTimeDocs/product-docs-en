@@ -2,17 +2,17 @@
   {
       "id": null,
       "name": "Application",
-      "localizedName": "application"
+      "localizedName": "Application"
   },
   {
       "id": null,
       "name": "File",
-      "localizedName": "file"
+      "localizedName": "File"
   },
   {
       "id": null,
       "name": "Screen",
-      "localizedName": "screen"
+      "localizedName": "Screen"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.ConfirmMessageBox",
@@ -24,14 +24,14 @@
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.InputPasswordDialogActivity",
       "name": "InputPasswordDialogActivity.md",
-      "localizedName": "enter password",
+      "localizedName": "Enter Password",
       "uuid": "dba40cce-0e8d-4f42-a871-5e23050e2730",
       "labels": "输入, 密码"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.InputDialogActivity",
       "name": "InputDialog.md",
-      "localizedName": "Input box",
+      "localizedName": "Input Box",
       "uuid": "f9cd10c0-90af-4f6c-a823-b2faa0daa98a",
       "labels": "输入框"
   },
@@ -45,77 +45,77 @@
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.PromptBoxActivity",
       "name": "PromptBox.md",
-      "localizedName": "Prompt box",
+      "localizedName": "Prompt Box",
       "uuid": "2d3a8979-d6bb-4789-9dc4-67f0f34d86d2",
       "labels": "提示框"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.DropdownListBoxActivity",
       "name": "DropdownListDialog.md",
-      "localizedName": "Drop-down selection box",
+      "localizedName": "Drop-Down Selection Box",
       "uuid": "ccedfc92-db58-4730-b431-0a024798cf4b",
       "labels": "下拉选择"
   },
   {
       "id": "BotTime.ActivityLibrary.ActivityDesigners.Controls.MultiSelectListBoxWindow",
       "name": "MultiSelectListBoxActivity.md",
-      "localizedName": "Multiple selection box",
+      "localizedName": "Multiple Selection Box",
       "uuid": "3992bcc5-0f57-4d41-939e-dbe818470d93",
       "labels": "多项选择框"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.LogActivity",
       "name": "WriteLog.md",
-      "localizedName": "Write log",
+      "localizedName": "Write Log",
       "uuid": "e872e128-9c76-4ab3-a4b4-5def33430cdd",
       "labels": "日志, 写入"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.SetLogLevelActivity",
       "name": "SetLogLevel.md",
-      "localizedName": "Set log level",
+      "localizedName": "Set Log Level",
       "uuid": "2484000c-d3f6-4cc6-8e9c-f2df2aa6d1a8",
       "labels": "日志, 设置, 级别"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.SetPasswordActivity",
       "name": "SetPassword.md",
-      "localizedName": "set password",
+      "localizedName": "Set Password",
       "uuid": "2cc94c74-5623-4270-94be-b2dad5c2bcc7",
       "labels": "设置, 密码"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.GetWindowsCredential",
       "name": "GetWindowsCredential.md",
-      "localizedName": "Obtain Windows credentials",
+      "localizedName": "Obtain Windows Credentials",
       "uuid": "1d9d79be-39fc-47a3-807b-e227940b0c8e",
       "labels": "凭据, 获取, Windows"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.SetClipboardTextActivity",
       "name": "SetContentsToClipboard.md",
-      "localizedName": "Set clipboard text",
+      "localizedName": "Set Clipboard Text",
       "uuid": "9088e781-2267-4e46-affc-921a3c9276ec",
       "labels": "设置, 文本, 剪贴板"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.GetClipboardTextActivity",
       "name": "GetContentsFromClipboard.md",
-      "localizedName": "Get clipboard text",
+      "localizedName": "Get Clipboard Text",
       "uuid": "065719d1-6655-41bd-90bf-fc0ca575df3b",
       "labels": "获取, 文本, 剪贴板"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.ExecuteCmd",
       "name": "ExecuteCMD.md",
-      "localizedName": "Execute command line",
+      "localizedName": "Execute Command Line",
       "uuid": "ff449f85-ae4a-4e53-aad3-0a1edbca5804",
       "labels": "命令行"
   },
   {
       "id": "BotTime.ActivityLibrary.Activities.System.Tool.SetDateActivity",
       "name": "SetDateTime.md",
-      "localizedName": "Set date and time",
+      "localizedName": "Set Date and Time",
       "uuid": "0fccefc9-5de7-4d35-90fa-af3f46ef194b",
       "labels": "日期, 设置, 时间"
   }

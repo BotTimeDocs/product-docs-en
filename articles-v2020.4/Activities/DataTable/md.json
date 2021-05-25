@@ -30,49 +30,49 @@
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableMergeActivity",
       "name": "MergeDataTable.md",
-      "localizedName": "merge data table",
+      "localizedName": "Merge Data Table",
       "uuid": "2fb561fb-f484-463d-a5ff-12dafb44b42a",
       "labels": "数据表, 合并"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.JoinDataTablesActivity",
       "name": "JoinDataTable.md",
-      "localizedName": "Join data table",
+      "localizedName": "Join Data Table",
       "uuid": "a8e2e914-6ac2-4d77-8727-995a2f2b886c",
       "labels": "联结, 数据表"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableAddRowActivity",
       "name": "AddRow.md",
-      "localizedName": "Add data row",
+      "localizedName": "Add Data Row",
       "uuid": "4bed7d43-3747-438b-959a-2f8ac84f5567",
       "labels": "添加, 数据表, 行"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableAddColumnActivity",
       "name": "AddColumn.md",
-      "localizedName": "Add data column",
+      "localizedName": "Add Data Column",
       "uuid": "715476d5-5971-45b6-a52e-2d87ac7fb1ae",
       "labels": "添加, 数据表, 列"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableRemoveRowActivity",
       "name": "RemoveRow.md",
-      "localizedName": "Remove row",
+      "localizedName": "Remove Row",
       "uuid": "4b0cad72-7315-4410-9aeb-7893ed11357d",
       "labels": "移除, 数据表, 行"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableRemoveColumnActivity",
       "name": "RemoveColumn.md",
-      "localizedName": "Remove column",
+      "localizedName": "Remove Column",
       "uuid": "dabc299f-344e-47a8-bb33-789296f96cd5",
       "labels": "移除, 数据表, 列"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableRemoveDuplicateRowActivity",
       "name": "RemoveDuplicateRow.md",
-      "localizedName": "Remove duplicate rows",
+      "localizedName": "Remove Duplicate Rows",
       "uuid": "1be1645a-156d-4453-a531-987df1c9199a",
       "labels": "重复, 移除, 数据表"
   },
@@ -93,7 +93,7 @@
   {
       "id": "BotTime.DataTableActivity.Activities.FilterDataTableActivity",
       "name": "FilterDataTable.md",
-      "localizedName": "filter",
+      "localizedName": "Filter",
       "uuid": "e876bd35-05bd-4e8f-8e5d-6ac7409101e9",
       "labels": "筛选"
   },
@@ -107,21 +107,21 @@
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableReadCSVActivity",
       "name": "ReadCSV.md",
-      "localizedName": "Read CSV file",
+      "localizedName": "Read CSV File",
       "uuid": "d72e8b2c-3ea6-4523-a351-49571ffbb178",
       "labels": "读取, 文件, CSV"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.DataTableSaveToCSVActivity",
       "name": "SaveToCSV.md",
-      "localizedName": "Save as CSV file",
+      "localizedName": "Save as CSV File",
       "uuid": "f42d698f-895d-46b1-9fd4-2314d2952f03",
       "labels": "文件, CSV, 保存"
   },
   {
       "id": "BotTime.DataTableActivity.Activities.AppendToCSVActivity",
       "name": "AppendToCSV.md",
-      "localizedName": "Append to CSV file",
+      "localizedName": "Append to CSV File",
       "uuid": "8d2b5294-b537-4865-a78f-0ae790d8bfcb",
       "labels": "文件, CSV, 追加"
   }

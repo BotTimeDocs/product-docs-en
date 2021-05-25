@@ -23,7 +23,7 @@
     {
         "id": "Encoo.Trigger.Activity.Activities.IMAPTriggerActivity",
         "name": "IMAPTrigger.md",
-        "localizedName": "Mail trigger (IMAP)",
+        "localizedName": "EMail trigger (IMAP)",
         "uuid": "eb6b7880-d910-46e9-971c-320934d9d139",
         "labels": "触发器, 邮件, IMAP"
     }

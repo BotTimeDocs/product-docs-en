@@ -32,7 +32,7 @@
   {
       "id": null,
       "name": "TextProcessing",
-      "localizedName": "text"
+      "localizedName": "Text"
   },
   {
       "id": null,
@@ -42,21 +42,21 @@
   {
       "id": null,
       "name": "ArrayProcessing",
-      "localizedName": "array"
+      "localizedName": "Array"
   },
   {
       "id": null,
       "name": "Dictionary",
-      "localizedName": "dictionary"
+      "localizedName": "Dictionary"
   },
   {
       "id": null,
       "name": "DataProcessing",
-      "localizedName": "format"
+      "localizedName": "Format"
   },
   {
       "id": null,
       "name": "TypeConversion",
-      "localizedName": "Type conversions"
+      "localizedName": "Type Conversions"
   }
 ]

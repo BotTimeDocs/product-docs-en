@@ -24,27 +24,27 @@
   {
       "id": null,
       "name": "System",
-      "localizedName": "system"
+      "localizedName": "System"
   },
   {
       "id": null,
       "name": "Check",
-      "localizedName": "check"
+      "localizedName": "Check"
   },
   {
       "id": null,
       "name": "Database",
-      "localizedName": "database"
+      "localizedName": "Database"
   },
   {
       "id": null,
       "name": "DataTable",
-      "localizedName": "data sheet"
+      "localizedName": "Data Sheet"
   },
   {
       "id": null,
       "name": "WorkflowControl",
-      "localizedName": "Process control"
+      "localizedName": "Process Control"
   },
   {
       "id": null,
@@ -54,7 +54,7 @@
   {
       "id": null,
       "name": "PhoneAutomation",
-      "localizedName": "Mobile phone automation"
+      "localizedName": "Mobile Phone Automation"
   },
   {
       "id": null,
@@ -69,11 +69,11 @@
   {
       "id": null,
       "name": "Triggers",
-      "localizedName": "trigger"
+      "localizedName": "Trigger"
   },
   {
       "id": null,
       "name": "Appendix",
-      "localizedName": "appendix"
+      "localizedName": "Appendix"
   }
 ]

@@ -2,7 +2,7 @@
     {
         "id": "Encootech.AutomationActivity.OcrActivity.GetOcrText",
         "name": "GetOCRText.md",
-        "localizedName": "Get OCR text",
+        "localizedName": "Get OCR Text",
         "uuid": "6e902991-3f05-4e06-a3f3-f9356db0645a",
         "labels": "OCR, 获取, 文本"
     },

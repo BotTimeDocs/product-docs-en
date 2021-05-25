@@ -2,21 +2,21 @@
     {
         "id": "BotTime.WPS.Activity.WPSExcelOpenOrCreateActivity",
         "name": "OpenExcel.md",
-        "localizedName": "Open new",
+        "localizedName": "Open New",
         "uuid": "e4b06d71-a600-498e-afad-970aa2c7dc82",
         "labels": "新建, 打开, Excel, WPS"
     },
     {
         "id": "BotTime.WPS.Activity.WPSExcelReadCellActivity",
         "name": "ReadCell.md",
-        "localizedName": "Read cell",
+        "localizedName": "Read Cell",
         "uuid": "f43eedeb-4430-40b4-9f87-93430f946176",
         "labels": "读取, 单元格, Excel, WPS"
     },
     {
         "id": "BotTime.WPS.Activity.WPSExcelRangesReadActivity",
         "name": "ReadRange.md",
-        "localizedName": "Read area",
+        "localizedName": "Read Area",
         "uuid": "2f4fe58c-3148-4a5e-a5be-cb6194ee535a",
         "labels": "读取, 区域, Excel, WPS"
     },
@@ -30,14 +30,14 @@
     {
         "id": "BotTime.WPS.Activity.WPSExcelWriteCellActivity",
         "name": "WriteCell.md",
-        "localizedName": "Write cell",
+        "localizedName": "Write Cell",
         "uuid": "22b3f3f4-103f-4b6a-ae8d-021737c2f7e8",
         "labels": "单元格, Excel, WPS"
     },
     {
         "id": "BotTime.WPS.Activity.WPSExcelRangesWriteActivity",
         "name": "WriteRange.md",
-        "localizedName": "Write area",
+        "localizedName": "Write Area",
         "uuid": "7ffd52ae-2bdc-49e8-b964-1311627682cc",
         "labels": "区域, Excel, WPS"
     },
@@ -51,7 +51,7 @@
     {
         "id": "BotTime.WPS.Activity.WPSExcelDeleteRecordActivity",
         "name": "Delete.md",
-        "localizedName": "delete data",
+        "localizedName": "Delete Data",
         "uuid": "fdfe96c0-0844-40ad-80e6-a1a73392bad9",
         "labels": "数据, 删除, Excel, WPS"
     },
@@ -79,21 +79,21 @@
     {
         "id": "BotTime.WPS.Activity.WPSExcelHideSheetActivity",
         "name": "HideWorksheet.md",
-        "localizedName": "Hide worksheet",
+        "localizedName": "Hide Worksheet",
         "uuid": "f790a916-33e7-4c49-95fa-8108f0453213",
         "labels": "隐藏, 工作表, Excel, WPS"
     },
     {
         "id": "BotTime.WPS.Activity.WPSExcelCreateSheetActivity",
         "name": "InsertWorksheet.md",
-        "localizedName": "Insert worksheet",
+        "localizedName": "Insert Worksheet",
         "uuid": "75444828-9803-4f76-ab63-41917aacabb0",
         "labels": "工作表, 插入, Excel, WPS"
     },
     {
         "id": "BotTime.WPS.Activity.WPSExcelAddFormulaActivity",
         "name": "InsertFormula.md",
-        "localizedName": "Insert formula",
+        "localizedName": "Insert Formula",
         "uuid": "a910a4d2-2a67-431e-9cba-a26a0b9c8565",
         "labels": "插入, 公式, Excel, WPS"
     },
@@ -107,7 +107,7 @@
     {
         "id": "BotTime.WPS.Activity.WPSExcelFilterActivity",
         "name": "Filter.md",
-        "localizedName": "filter",
+        "localizedName": "Filter",
         "uuid": "971899a8-a25c-477b-b698-5cdc25e40c91",
         "labels": "筛选, 数据, Excel, WPS"
     },

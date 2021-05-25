@@ -2,14 +2,14 @@
     {
         "id": "",
         "name": "DataBase",
-        "localizedName": "data sheet",
+        "localizedName": "Data Sheet",
         "uuid": "",
         "labels": ""
     },
     {
         "id": "",
         "name": "Text",
-        "localizedName": "text",
+        "localizedName": "Text",
         "uuid": "",
         "labels": ""
     }
