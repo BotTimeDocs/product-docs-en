@@ -7,13 +7,13 @@
   },
   {
       "name": "ReleaseNotes.md",
-      "localizedName": "Latest release notes",
+      "localizedName": "Latest Release Notes",
       "uuid": "4d3fd93f-a9a1-41e5-abad-63aad543c919",
       "labels": "发版"
   },
   {
       "name": "ReleaseNotes",
-      "localizedName": "Historical release notes"
+      "localizedName": "Historical Release Notes"
   },
   {
       "name": "Studio",
@@ -22,7 +22,7 @@
   {
       "id": null,
       "name": "Activities",
-      "localizedName": "ENCOO Component library"
+      "localizedName": "ENCOO Component Library"
   },
   {
       "id": null,
